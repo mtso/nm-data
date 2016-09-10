@@ -7,6 +7,7 @@ Last updated: 16-09-09
 Created by Emory (dreamtech)
 
 Released Aug 9, 2016
+
 Out of Print On Feb 5, 2017
 
 ### Series Details
