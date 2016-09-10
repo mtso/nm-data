@@ -1,6 +1,6 @@
 # Avatars Series Data
 
-Last updated: 16-09-09
+Last updated: 16-09-10
 
 ## Description
 
