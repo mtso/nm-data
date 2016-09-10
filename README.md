@@ -2,12 +2,6 @@
 
 Raw data on Neonmob collections and cards
 
-##### Helpful for scraping trade lists:
+## Series
 
-Start scrolling:
->
-var scroll = setInterval(function(){ document.getElementById('ng-nm-overlay').scrollTop += 100; }, 10);
-
-Stop scrolling:
->
-clearInterval(scroll);
+[Avatars](https://gitlab.com/mtso/neonmob-datasets/tree/master/avatars.nmdata)
