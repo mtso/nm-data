@@ -1,25 +1,34 @@
-Accessed on Thu Sep 15 2016 00:52:02 GMT-0700 (PDT)
+Accessed on Sun Oct 09 2016 11:47:38 GMT-0700 (PDT)
  
 ×
 
-15 Owners Of Mouth of the Molten Core [Process]
+24 Owners Of Mouth of the Molten Core [Process]
 All collectors with one or more of these.
 COLLECTOR	TRADER
 GRADE	# OWNED	
 "AVATARS"
 COMPLETION
- Pepe2nest	A+	1×	38/53	  GET
- Brains	A	1×	42/53	  GET
- Alfred Rivera	A+	1×	44/53	  GET
- Awesomesauce3983	D-	1×	22/53	  GET
- Akurei Hoshi	B+	1×	31/53	  GET
- Aleks	A+	1×	39/53	  GET
- Phoenixdn4	A	1×	34/53	  GET
- Matt	A+	1×	41/53	  GET
  draconian Voltage	A+	1×	43/53	  GET
- Jon R	A+	1×	31/53	  GET
- Israel A. Candelario	A+	1×	39/53	  GET
- Filip Vasovic	B+	1×	19/53	  GET
- DucAnh Le	A+	1×	39/53	  GET
- Dave Wilhelm	A+	1×	44/53	  GET
- Nathan	A+	1×	49/53	  GET
+ Filip Vasovic	B	1×	33/53	  GET
+ Brian Baron	A+	1×	45/53	  GET
+ Hironori Taniguchi	A+	1×	41/53	  GET
+ Aaron Wade	A+	1×	20/53	  GET
+ Dave Wilhelm	A+	1×	49/53	  GET
+ Matt	A+	1×	42/53	  GET
+ Loffel	A+	1×	44/53	  GET
+ Mikuruchu	A+	1×	42/53	  GET
+ Akurei Hoshi	B+	1×	31/53	  GET
+ Nathan	B+	1×	50/53	  GET
+ Collector_rj	C+	1×	23/53	  GET
+ Dylan	B	1×	27/53	  GET
+ Awesomesauce3983	D-	1×	32/53	  GET
+ Pepe2nest	A	1×	38/53	  GET
+ Aleks	A+	1×	45/53	  GET
+ Phoenixdn4	B-	1×	34/53	  GET
+ Israel A. Candelario	A	1×	39/53	  GET
+ Cyrus Malkin	A+	1×	53/53	  GET
+ Brains	B+	1×	42/53	  GET
+ DucAnh Le	A+	1×	40/53	  GET
+ Alfred Rivera	A+	1×	49/53	  GET
+ the bastard	F	1×	30/53	  GET
+ Jon R	A+	1×	34/53	  GET

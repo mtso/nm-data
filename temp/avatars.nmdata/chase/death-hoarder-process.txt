@@ -1,23 +1,30 @@
-Accessed on Thu Sep 15 2016 00:43:18 GMT-0700 (PDT)
+Accessed on Sun Oct 09 2016 11:38:43 GMT-0700 (PDT)
  
 ×
 
-13 Owners Of Death Hoarder [Process]
+20 Owners Of Death Hoarder [Process]
 All collectors with one or more of these.
 COLLECTOR	TRADER
 GRADE	# OWNED	
 "AVATARS"
 COMPLETION
- Brian Scarcello	A+	1×	34/53	  GET
- Adrian Gison	A+	1×	37/53	  GET
- Oracle Saturn	A+	1×	39/53	  GET
- Neonmobster_19526	B	1×	5/53	  GET
+ Prime99x	B	1×	31/53	  GET
+ Neonmobster_19526	C	1×	5/53	  GET
+ hching	B+	1×	47/53	  GET
+ Andrew Starks	A+	1×	43/53	  GET
+ Cyrus Malkin	A+	1×	53/53	  GET
+ Shaze	A+	1×	37/53	  GET
  Korisa Linton	C-	1×	17/53	  GET
- Shelly Gagnon	A+	1×	39/53	  GET
- Shaze	A+	1×	36/53	  GET
- Maggie White	A+	1×	32/53	  GET
- hching	A+	1×	46/53	  GET
- Reaver	A+	1×	46/53	  GET
- Cyrus Malkin	A+	1×	52/53	  GET
- ALT	C-	1×	19/53	  GET
- Q Lat	A+	1×	37/53	  GET
+ Adrian Gison	A+	1×	37/53	  GET
+ Brian Scarcello	A+	1×	43/53	  GET
+ 7dod	A+	1×	41/53	  GET
+ Maggie White	A+	1×	39/53	  GET
+ Oracle Saturn	A	1×	43/53	  GET
+ Reaver	A+	1×	50/53	  GET
+ Q Lat	A+	1×	40/53	  GET
+ Heleye	A+	1×	41/53	  GET
+ Rookiespoiler	B	1×	10/53	  GET
+ Grace Ann Buenaventura	A	1×	44/53	  GET
+ ALT	C-	1×	35/53	  GET
+ Shelly Gagnon	A+	1×	40/53	  GET
+ Syn Night	A+	1×	42/53	  GET

@@ -1,29 +1,44 @@
-Accessed on Thu Sep 15 2016 01:02:42 GMT-0700 (PDT)
+Accessed on Sun Oct 09 2016 11:58:35 GMT-0700 (PDT)
  
 ×
 
-19 Owners Of Voracious Hunger [Process]
+34 Owners Of Voracious Hunger [Process]
 All collectors with one or more of these.
 COLLECTOR	TRADER
 GRADE	# OWNED	
 "AVATARS"
 COMPLETION
- David Casey	A+	1×	38/53	  GET
- Gabriel John Tallungan	D	1×	30/53	  GET
- Chained Nightmare	A+	1×	52/53	  GET
- Weilin Liao	A+	1×	41/53	  GET
- Dung Mücke	C+	1×	40/53	  GET
- Mkrusipro	A+	1×	34/53	  GET
- M.dominguez	A	1×	41/53	  GET
- Alkimim M. P. C.	A+	1×	42/53	  GET
- Grim Thepianist	C	1×	1/53	  GET
- Kit Winters	A+	1×	19/53	  GET
- Dhodg187	A+	1×	40/53	  GET
- Andrea Torrone	A	1×	48/53	  GET
- Dustinfolk88	A+	1×	20/53	  GET
- Altfb00	B	1×	14/53	  GET
- Ren Son	A+	1×	39/53	  GET
- Johnthesilver	A+	1×	49/53	  GET
- Nicole Proud	A+	1×	15/53	  GET
  pronto_pup	A+	1×	40/53	  GET
- David Phillips	D+	1×	41/53	  GET
+ Dustinfolk88	A-	1×	23/53	  GET
+ Arbiter	C	1×	37/53	  GET
+ Andrea Torrone	A	1×	49/53	  GET
+ Alkimim M. P. C.	A+	1×	45/53	  GET
+ Edrian Villanueva	C	1×	37/53	  GET
+ Edru71	A+	1×	43/53	  GET
+ Crazychick7	A+	1×	44/53	  GET
+ Tony Bolony	A+	1×	53/53	  GET
+ Kit Winters	A+	1×	35/53	  GET
+ David	B+	1×	41/53	  GET
+ Dung Mücke	A+	1×	41/53	  GET
+ Dhodg187	A	1×	40/53	  GET
+ Mkrusipro	A+	1×	41/53	  GET
+ Sheldon Vanover	B+	1×	37/53	  GET
+ Kevin Plumley	A+	1×	44/53	  GET
+ Devout Faith	C	1×	50/53	  GET
+ Tzel	A	1×	38/53	  GET
+ Andrea Barskaya	A+	1×	40/53	  GET
+ Ren Son	A+	1×	40/53	  GET
+ Dwarfy	C+	1×	26/53	  GET
+ Nicole Proud	A+	1×	15/53	  GET
+ David Phillips	F+	1×	45/53	  GET
+ Reaver	A+	1×	50/53	  GET
+ Ag3ntxii	A+	1×	44/53	  GET
+ Christian Contr	A+	1×	45/53	  GET
+ Grim Thepianist	C	1×	1/53	  GET
+ M.dominguez	A+	1×	39/53	  GET
+ Altfb00	B	1×	17/53	  GET
+ Weilin Liao	A+	1×	44/53	  GET
+ Gabriel John Tallungan	D	1×	35/53	  GET
+ Sequoia B.M.	A+	1×	42/53	  GET
+ Neonmobster_19855	B	1×	23/53	  GET
+ David Casey	A+	1×	35/53	  GET

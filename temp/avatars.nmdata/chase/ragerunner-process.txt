@@ -1,21 +1,34 @@
-Accessed on Thu Sep 15 2016 00:55:11 GMT-0700 (PDT)
+Accessed on Sun Oct 09 2016 11:50:52 GMT-0700 (PDT)
  
 ×
 
-11 Owners Of Ragerunner [Process]
+24 Owners Of Ragerunner [Process]
 All collectors with one or more of these.
 COLLECTOR	TRADER
 GRADE	# OWNED	
 "AVATARS"
 COMPLETION
- Zero.monroeville	A+	1×	40/53	  GET
- Jahn Galt	A+	1×	38/53	  GET
- DMPL	A+	1×	37/53	  GET
- Ilja	A+	1×	41/53	  GET
- Bencrocker	A+	1×	43/53	  GET
- Jacob Pennell	B	1×	4/53	  GET
+ Rabidcakes	A	1×	27/53	  GET
+ Luciano Santos	A+	1×	42/53	  GET
  Vanessa Holden	A+	1×	43/53	  GET
- Andrew Kennedy	A+	1×	28/53	  GET
+ Ich Dolgner	A-	1×	33/53	  GET
+ Mikael Vaede	A-	1×	44/53	  GET
+ Spaghetti Spaghetti	A+	1×	50/53	  GET
+ Neonmobster_16121	A	1×	33/53	  GET
+ Ben Crocker	A	1×	49/53	  GET
+ Jahn Galt	A+	1×	44/53	  GET
  Kyra Rheeder-Kleist	A+	1×	40/53	  GET
- Luciano Santos	A+	1×	38/53	  GET
- Jarid Waniger	A+	1×	28/53	  GET
+ Patryk Surmacz	A+	1×	43/53	  GET
+ Alberto Bernard	A+	1×	50/53	  GET
+ DMPL	A+	1×	39/53	  GET
+ Sunwusaru	A+	1×	37/53	  GET
+ Ilja	A+	1×	46/53	  GET
+ Mkrusipro	A+	1×	41/53	  GET
+ Jacob Pennell	B-	1×	4/53	  GET
+ Andrew Kennedy	A	1×	36/53	  GET
+ Miles22	A+	1×	31/53	  GET
+ Phantasmkira Kira	A+	1×	36/53	  GET
+ Jade Jackson	A+	1×	32/53	  GET
+ Zero.monroeville	A+	1×	41/53	  GET
+ Neonmobster_19570	C	1×	14/53	  GET
+ Jarid Waniger	A+	1×	32/53	  GET

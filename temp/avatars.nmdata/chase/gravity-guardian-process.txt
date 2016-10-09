@@ -1,21 +1,27 @@
-Accessed on Thu Sep 15 2016 00:47:17 GMT-0700 (PDT)
+Accessed on Sun Oct 09 2016 11:42:46 GMT-0700 (PDT)
  
 ×
 
-11 Owners Of Gravity Guardian [Process]
+17 Owners Of Gravity Guardian [Process]
 All collectors with one or more of these.
 COLLECTOR	TRADER
 GRADE	# OWNED	
 "AVATARS"
 COMPLETION
- hching	A+	1×	46/53	  GET
- Schrodingers Box	A+	1×	42/53	  GET
+ Ashe	B-	1×	41/53	  GET
+ Neonmobster_1140	A+	1×	33/53	  GET
+ Arturo Castro	C+	1×	27/53	  GET
+ Dains	A+	1×	41/53	  GET
+ Kelley Hix	A+	1×	45/53	  GET
  v vendeta	C-	1×	24/53	  GET
- Frawst	A+	1×	47/53	  GET
- Ashe	B+	1×	39/53	  GET
- Neonmobster_9817	A+	1×	36/53	  GET
- Neonmobster_1140	A+	1×	16/53	  GET
- Dains	A+	1×	36/53	  GET
- Arturo Castro	B-	1×	25/53	  GET
- Itatly	A+	1×	39/53	  GET
- Mastodon	A+	1×	42/53	  GET
+ hching	B+	1×	47/53	  GET
+ Frawst	A+	1×	49/53	  GET
+ Shannon Flint	D	1×	1/53	  GET
+ Neonmobster_9817	A	1×	37/53	  GET
+ H2OMelon	A+	1×	44/53	  GET
+ Henry	A+	1×	33/53	  GET
+ Itatly	A+	1×	42/53	  GET
+ Mastodon	A+	1×	47/53	  GET
+ Schrodingers Box	A+	1×	44/53	  GET
+ Naranda	B+	1×	48/53	  GET
+ Aldo Northon	B	1×	5/53	  GET

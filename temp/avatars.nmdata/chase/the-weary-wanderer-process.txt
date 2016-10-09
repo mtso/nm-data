@@ -1,21 +1,37 @@
-Accessed on Thu Sep 15 2016 01:01:06 GMT-0700 (PDT)
+Accessed on Sun Oct 09 2016 11:56:57 GMT-0700 (PDT)
  
 ×
 
-11 Owners Of The Weary Wanderer [Process]
+27 Owners Of The Weary Wanderer [Process]
 All collectors with one or more of these.
 COLLECTOR	TRADER
 GRADE	# OWNED	
 "AVATARS"
 COMPLETION
- Cyrus Malkin	A+	2×	52/53	  GET
+ Melissa Lawver	A+	1×	50/53	  GET
+ Max Nachlinger	A+	1×	41/53	  GET
  Erick Lopez	B+	1×	5/53	  GET
+ Елена Гришаева	A+	1×	41/53	  GET
  Megan Pauls-O'Brien	A+	1×	38/53	  GET
- Sevilyra	A+	1×	44/53	  GET
- Astig	B+	1×	20/53	  GET
- Javisa	A+	1×	40/53	  GET
- Stephany Senpai	A-	1×	32/53	  GET
- Igor Henckes	A	1×	40/53	  GET
+ Akiane	A+	1×	37/53	  GET
+ Dave Wilhelm	A+	1×	49/53	  GET
+ Speedy	A+	1×	42/53	  GET
+ Raeverie	A+	1×	50/53	  GET
+ Giacomo Maggi	A+	1×	48/53	  GET
+ Darr3nrocks	A+	1×	41/53	  GET
+ Mtzdiana	A+	1×	39/53	  GET
+ Stephany Senpai	B	1×	33/53	  GET
+ Mroz4k	B	1×	43/53	  GET
+ Javisa	A+	1×	41/53	  GET
+ Aza	A+	1×	33/53	  GET
+ Ryumichi	A+	1×	41/53	  GET
+ Sevilyra	A	1×	44/53	  GET
+ Hannah Bridgeman	A+	1×	22/53	  GET
+ Severehercules	A+	1×	38/53	  GET
+ Neonmobster_16804	A+	1×	42/53	  GET
+ Matthias Bramfitt	A+	1×	41/53	  GET
+ Cyrus Malkin	A+	1×	53/53	  GET
+ Astig	C+	1×	25/53	  GET
+ Igor Henckes	A+	1×	46/53	  GET
+ Melody Auburn	A+	1×	43/53	  GET
  Zizimaro	A+	1×	48/53	  GET
- Severehercules	A+	1×	37/53	  GET
- Melody Auburn	A+	1×	39/53	  GET

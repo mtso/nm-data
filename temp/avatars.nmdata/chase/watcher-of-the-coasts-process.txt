@@ -1,24 +1,35 @@
-Accessed on Thu Sep 15 2016 01:03:31 GMT-0700 (PDT)
+Accessed on Sun Oct 09 2016 11:59:23 GMT-0700 (PDT)
  
 ×
 
-14 Owners Of Watcher of the Coasts [Process]
+25 Owners Of Watcher of the Coasts [Process]
 All collectors with one or more of these.
 COLLECTOR	TRADER
 GRADE	# OWNED	
 "AVATARS"
 COMPLETION
- Nick Sabre	A+	1×	53/53	  GET
- Prismdragon	A-	1×	32/53	  GET
- Mikey	A+	1×	42/53	  GET
- Neonmobster_1205	A+	1×	41/53	  GET
- Eric Lam	A+	1×	40/53	  GET
- Gustavo Hernandez	C+	1×	28/53	  GET
- Ashley Brim	A+	1×	39/53	  GET
- M.	A+	1×	27/53	  GET
+ Ashley Brim	A+	1×	44/53	  GET
+ Arlain	A+	1×	41/53	  GET
+ Neonmobster_1205	A+	1×	43/53	  GET
+ Vanillabliss	A+	1×	52/53	  GET
+ Raeverie	A+	1×	50/53	  GET
+ Juan Pablo Owen Arboleda	F+	1×	5/53	  GET
+ Tanksoul	B	1×	49/53	  GET
+ Jhonnie	B+	1×	32/53	  GET
+ M.	A+	1×	29/53	  GET
+ Melissa Lawver	A+	1×	50/53	  GET
+ Jakeb114	A-	1×	42/53	  GET
+ Amy Olson	D+	1×	9/53	  GET
+ OfraJaws	A+	1×	38/53	  GET
+ Chris Dalakos	A+	1×	36/53	  GET
+ Hungry Druid	C+	1×	21/53	  GET
+ Gustavo Hernandez	B-	1×	28/53	  GET
  Steve Honekai	A+	1×	36/53	  GET
- Dennis Perlstein	A+	1×	44/53	  GET
- Chris Dalakos	A+	1×	31/53	  GET
- Hungry Druid	A+	1×	21/53	  GET
- Ryan Tewson	B+	1×	34/53	  GET
- Enma Ai	A+	1×	36/53	  GET
+ Mikey	A+	1×	44/53	  GET
+ Lawliet	A+	1×	49/53	  GET
+ Dennis Perlstein	A+	1×	45/53	  GET
+ Kaosknight	A+	1×	42/53	  GET
+ Prismdragon	A+	1×	39/53	  GET
+ Ryan Tewson	A+	1×	39/53	  GET
+ Tejas Prithvi	A+	1×	45/53	  GET
+ Eric Lam	A+	1×	45/53	  GET

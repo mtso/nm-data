@@ -1,18 +1,27 @@
-Accessed on Thu Sep 15 2016 01:00:18 GMT-0700 (PDT)
+Accessed on Sun Oct 09 2016 11:56:09 GMT-0700 (PDT)
  
 ×
 
-8 Owners Of The Star Thief [Process]
+17 Owners Of The Star Thief [Process]
 All collectors with one or more of these.
 COLLECTOR	TRADER
 GRADE	# OWNED	
 "AVATARS"
 COMPLETION
- Morgan Caricchio	A+	1×	42/53	  GET
- Dindeen Jaro	A+	1×	42/53	  GET
- John Paul George Eguia	B+	1×	40/53	  GET
+ Morgan Caricchio	A+	1×	43/53	  GET
+ James Fox Robinson	A+	1×	42/53	  GET
+ Max Nachlinger	A+	1×	41/53	  GET
  Cthulhu	A+	1×	44/53	  GET
- Mc_repsaj	A	1×	24/53	  GET
- Juicyjarod	D+	1×	9/53	  GET
- Michael Rios	A+	1×	53/53	  GET
- Ariana Hydorn	A+	1×	37/53	  GET
+ Matthias Bramfitt	A+	1×	41/53	  GET
+ Ezylryb	A	1×	41/53	  GET
+ Dindeen Jaro	B+	1×	43/53	  GET
+ RedLevi	B+	1×	37/53	  GET
+ Ramon Cardoso	A+	1×	37/53	  GET
+ Ariana Hydorn	A+	1×	42/53	  GET
+ Mc_repsaj	B+	1×	32/53	  GET
+ Juicyjarod	D	1×	9/53	  GET
+ Melissa Lawver	A+	1×	50/53	  GET
+ Joe Braz	A+	1×	41/53	  GET
+ John Paul George Eguia	B+	1×	40/53	  GET
+ Michael Rios	C	1×	53/53	  GET
+ Alfred Rivera	A+	1×	49/53	  GET

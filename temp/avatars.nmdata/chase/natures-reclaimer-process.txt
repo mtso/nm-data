@@ -1,26 +1,34 @@
-Accessed on Thu Sep 15 2016 00:52:26 GMT-0700 (PDT)
+Accessed on Sun Oct 09 2016 11:48:03 GMT-0700 (PDT)
  
 ×
 
-16 Owners Of Nature's Reclaimer [Process]
+24 Owners Of Nature's Reclaimer [Process]
 All collectors with one or more of these.
 COLLECTOR	TRADER
 GRADE	# OWNED	
 "AVATARS"
 COMPLETION
- Igor Henckes	A	1×	40/53	  GET
- lava hawk	A+	1×	39/53	  GET
+ Collins Estock	A+	1×	47/53	  GET
  Durfy	A+	1×	40/53	  GET
- Sirhagrid	A+	1×	46/53	  GET
- Catpixels	A+	1×	44/53	  GET
- Bruno Da Silva	A+	1×	42/53	  GET
  Red_jj	A+	1×	37/53	  GET
- RonRidler	A	1×	35/53	  GET
- David Vejlgaard	A+	1×	40/53	  GET
- Zax G	A+	1×	40/53	  GET
- Collins Estock	A+	1×	36/53	  GET
- Caesar Nascimento	A-	1×	42/53	  GET
+ Caitlin L.	A+	1×	44/53	  GET
+ Emory	A+	1×	51/53	  GET
+ Caesar Nascimento	A+	1×	45/53	  GET
+ Sirhagrid	A+	1×	48/53	  GET
+ Michelle Holmes	B+	1×	39/53	  GET
+ Fabled3000	A+	1×	42/53	  GET
+ Cheryl	A+	1×	44/53	  GET
+ lava hawk	A+	1×	44/53	  GET
+ Igor Henckes	A+	1×	46/53	  GET
+ Lucas Tetrault	A+	1×	46/53	  GET
+ Papyrus	B+	1×	22/53	  GET
+ Schrodingers Box	A+	1×	44/53	  GET
  Ainsel	B	1×	39/53	  GET
- Moonkitvelvet	A+	1×	45/53	  GET
- Barry Bacon	B+	1×	33/53	  GET
- Michelle Holmes	A+	1×	37/53	  GET
+ Zax G	A+	1×	41/53	  GET
+ David Vejlgaard	A-	1×	41/53	  GET
+ Barry Bacon	C+	1×	35/53	  GET
+ Bruno Da Silva	A+	1×	44/53	  GET
+ Sophinky	B	1×	2/53	  GET
+ Snippid	A+	1×	48/53	  GET
+ RonRidler	A	1×	35/53	  GET
+ Catpixels	A+	1×	47/53	  GET

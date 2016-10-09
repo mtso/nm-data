@@ -1,25 +1,33 @@
-Accessed on Thu Sep 15 2016 00:50:50 GMT-0700 (PDT)
+Accessed on Sun Oct 09 2016 11:46:25 GMT-0700 (PDT)
  
 ×
 
-15 Owners Of Lord of Swords [Process]
+23 Owners Of Lord of Swords [Process]
 All collectors with one or more of these.
 COLLECTOR	TRADER
 GRADE	# OWNED	
 "AVATARS"
 COMPLETION
- Zalthaksus Dracorex	B	1×	32/53	  GET
- Winnie Lao	A+	1×	44/53	  GET
- Yezi	A+	1×	41/53	  GET
- Salvador Jimenez	A+	1×	29/53	  GET
- Matteo Caccioppola	A+	1×	6/53	  GET
- Sepanouir	B+	1×	23/53	  GET
- Janetmartzero	A+	1×	19/53	  GET
- Melissa Lawver	A+	1×	48/53	  GET
- Tara Von 6	A+	1×	43/53	  GET
+ Jaes Overley	A+	1×	43/53	  GET
+ Ella.sophi	A+	1×	37/53	  GET
+ Melissa Lawver	A+	1×	50/53	  GET
+ David Poulton	A+	1×	53/53	  GET
+ Charles Coy	D-	1×	21/53	  GET
+ Jennifer Ritz	A+	1×	44/53	  GET
+ Grimblood	A+	1×	40/53	  GET
+ T N	A+	1×	38/53	  GET
+ Sepanouir	B	1×	23/53	  GET
+ Emmanuel	A+	1×	47/53	  GET
+ RedLevi	B+	1×	37/53	  GET
+ Salvador Jimenez	A+	1×	33/53	  GET
+ Jean-Philippe Doré	A+	1×	45/53	  GET
+ Stereo	A	1×	43/53	  GET
+ Winnie Lao	A+	1×	46/53	  GET
+ Tara Von 6	A+	1×	44/53	  GET
+ Arkvenium	B+	1×	48/53	  GET
+ Dennis Perlstein	A+	1×	45/53	  GET
  Mithosfall	A+	1×	35/53	  GET
- Tom Nora	A+	1×	36/53	  GET
- David Poulton	A+	1×	48/53	  GET
- Arkvenium	A	1×	48/53	  GET
- Charles Coy	D+	1×	21/53	  GET
- Eclecticloset LLC	D+	1×	8/53	  GET
+ Zalthaksus Dracorex	C+	1×	32/53	  GET
+ Janetmartzero	A+	1×	31/53	  GET
+ Yezi	C	1×	41/53	  GET
+ Matteo Caccioppola	A+	1×	6/53	  GET

@@ -1,14 +1,22 @@
-Accessed on Thu Sep 15 2016 00:58:19 GMT-0700 (PDT)
+Accessed on Sun Oct 09 2016 11:54:06 GMT-0700 (PDT)
  
 ×
 
-4 Owners Of Stoneborn Cyclops [Process]
+12 Owners Of Stoneborn Cyclops [Process]
 All collectors with one or more of these.
 COLLECTOR	TRADER
 GRADE	# OWNED	
 "AVATARS"
 COMPLETION
- Samot Santos	C+	1×	24/53	  GET
- Matthew Schneider	A+	1×	35/53	  GET
- LittleMonster97	A+	1×	36/53	  GET
- Jon R	A+	1×	31/53	  GET
+ Vilana101004	A	1×	44/53	  GET
+ Patrick Hirsch	A+	1×	45/53	  GET
+ Cthulhu	A+	1×	44/53	  GET
+ Cameron Westmoreland	A+	1×	32/53	  GET
+ Devout Faith	C	1×	50/53	  GET
+ Samot Santos	A	1×	34/53	  GET
+ LittleMonster97	A	1×	39/53	  GET
+ David Chhuon	A+	1×	41/53	  GET
+ Jon R	A+	1×	34/53	  GET
+ Matthew Schneider	A+	1×	42/53	  GET
+ Daniel Sigal	A+	1×	46/53	  GET
+ Accursedfoursword	A	1×	30/53	  GET

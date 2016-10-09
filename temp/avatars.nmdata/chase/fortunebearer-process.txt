@@ -1,31 +1,38 @@
-Accessed on Thu Sep 15 2016 00:46:06 GMT-0700 (PDT)
+Accessed on Sun Oct 09 2016 11:41:34 GMT-0700 (PDT)
  
 ×
 
-21 Owners Of Fortunebearer [Process]
+28 Owners Of Fortunebearer [Process]
 All collectors with one or more of these.
 COLLECTOR	TRADER
 GRADE	# OWNED	
 "AVATARS"
 COMPLETION
- Grgzhng	A-	1×	43/53	  GET
- Ce.heil	A+	1×	27/53	  GET
- Brittany Evanovich	A+	1×	40/53	  GET
- Haku _	A+	1×	33/53	  GET
- Marcio Barrios	A+	1×	44/53	  GET
- Michelle Titus Parylak	A+	1×	38/53	  GET
- Ipocalypse	A+	1×	47/53	  GET
- Craftsman42	A+	1×	41/53	  GET
- Tara Von 6	A+	1×	43/53	  GET
- Hudson	B+	1×	22/53	  GET
- Chained Nightmare	A+	1×	52/53	  GET
- Andrewter	A+	1×	48/53	  GET
- Ham Solo	A+	1×	12/53	  GET
- Lizilya	A+	1×	44/53	  GET
- Damaged	A+	1×	36/53	  GET
- Roches Guimarães	A+	1×	53/53	  GET
- Aaron Zhao	D+	1×	18/53	  GET
- Kaiyo	A+	1×	38/53	  GET
- Ryan Sz	A+	1×	44/53	  GET
+ Marcio Barrios	A+	1×	47/53	  GET
+ Aaron Zhao	C-	1×	27/53	  GET
+ Ipocalypse	A+	1×	48/53	  GET
+ Grgzhng	B-	1×	43/53	  GET
+ Excidis	B	1×	32/53	  GET
+ Haku _	A+	1×	36/53	  GET
+ Melissa Lawver	A+	1×	50/53	  GET
+ Mario310399	B	1×	14/53	  GET
+ Ham Solo	A	1×	25/53	  GET
+ Kaiyo	A+	1×	41/53	  GET
+ Michelle Titus Parylak	A+	1×	39/53	  GET
+ Virginia Lore	A+	1×	28/53	  GET
+ jrose	A+	1×	43/53	  GET
+ Emory	A+	1×	51/53	  GET
+ Akihirokujo	A+	1×	42/53	  GET
+ Ryan Sz	A+	1×	45/53	  GET
+ Craftsman42	A+	1×	47/53	  GET
+ Sirhagrid	A+	1×	48/53	  GET
  Cara Self	A-	1×	6/53	  GET
- Virginia Lore	A+	1×	13/53	  GET
+ Roches Guimarães	A+	1×	53/53	  GET
+ Andrewter	A+	1×	51/53	  GET
+ Hudson	B+	1×	22/53	  GET
+ Tara Von 6	A+	1×	44/53	  GET
+ Dario	B	1×	31/53	  GET
+ David Smith	A+	1×	46/53	  GET
+ Lizilya	A+	1×	46/53	  GET
+ Brittany Evanovich	A+	1×	43/53	  GET
+ Ce.heil	A	1×	31/53	  GET

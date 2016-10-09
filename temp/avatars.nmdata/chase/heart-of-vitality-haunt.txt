@@ -1,22 +1,32 @@
-Accessed on Thu Sep 15 2016 00:48:05 GMT-0700 (PDT)
+Accessed on Sun Oct 09 2016 11:43:35 GMT-0700 (PDT)
  
 ×
 
-12 Owners Of Heart of Vitality [Haunt]
+22 Owners Of Heart of Vitality [Haunt]
 All collectors with one or more of these.
 COLLECTOR	TRADER
 GRADE	# OWNED	
 "AVATARS"
 COMPLETION
- James Millington	A	1×	36/53	  GET
- Leandropeliciari99	A+	1×	42/53	  GET
- Dan Moyer	A+	1×	45/53	  GET
- Neonmobster_19515	B+	1×	41/53	  GET
- Red Dragonfly	A+	1×	41/53	  GET
- Q Lat	A+	1×	37/53	  GET
- Sami Khodir	A+	1×	45/53	  GET
- H2OMelon	A+	1×	42/53	  GET
- Harleen Quinzel	A+	1×	26/53	  GET
- Fabled3000	A+	1×	42/53	  GET
- Courtney	A+	1×	53/53	  GET
+ brittany	C	1×	4/53	  GET
  DM Domini	A	1×	30/53	  GET
+ Scott Hajek	A+	1×	45/53	  GET
+ Darkmoon_dancer	A+	1×	42/53	  GET
+ Q Lat	A+	1×	40/53	  GET
+ Max Nachlinger	A+	1×	41/53	  GET
+ Fabled3000	A+	1×	42/53	  GET
+ Harleen Quinzel	A+	1×	32/53	  GET
+ Doughnutpugs	A+	1×	42/53	  GET
+ Laura	A+	1×	50/53	  GET
+ Dan Moyer	A+	1×	46/53	  GET
+ Hungryman	A+	1×	45/53	  GET
+ Manda Schumacher	B+	1×	21/53	  GET
+ James Millington	A+	1×	36/53	  GET
+ Neonmobster_19515	A+	1×	45/53	  GET
+ Ndruiz	A+	1×	42/53	  GET
+ Red Dragonfly	A+	1×	44/53	  GET
+ Courtney	A+	1×	53/53	  GET
+ Sami Khodir	C+	1×	45/53	  GET
+ Leandropeliciari99	A+	1×	45/53	  GET
+ H2OMelon	A+	1×	44/53	  GET
+ Pranzo	B-	1×	32/53	  GET

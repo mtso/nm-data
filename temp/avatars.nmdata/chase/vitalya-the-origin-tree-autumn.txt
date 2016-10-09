@@ -1,26 +1,36 @@
-Accessed on Thu Sep 15 2016 01:01:54 GMT-0700 (PDT)
+Accessed on Sun Oct 09 2016 11:57:46 GMT-0700 (PDT)
  
 ×
 
-16 Owners Of Vitalya, the Origin Tree [Autumn]
+26 Owners Of Vitalya, the Origin Tree [Autumn]
 All collectors with one or more of these.
 COLLECTOR	TRADER
 GRADE	# OWNED	
 "AVATARS"
 COMPLETION
- Igor Henckes	A	1×	40/53	  GET
- lava hawk	A+	1×	39/53	  GET
- Grizzly_adams008	A-	1×	17/53	  GET
- Austin Ulfers	A+	1×	35/53	  GET
- Jimtodd	A+	1×	43/53	  GET
- Luis Ruiz	A+	1×	32/53	  GET
  Zee Ann Tinkelenberg	D+	1×	6/53	  GET
+ Igor Henckes	A+	1×	46/53	  GET
+ Emory	A+	1×	51/53	  GET
+ Shaman Suresh	A+	1×	46/53	  GET
+ Grizzly_adams008	A-	1×	17/53	  GET
+ Nushie	B	1×	42/53	  GET
+ Debra T	A+	1×	43/53	  GET
+ lava hawk	A+	1×	44/53	  GET
  Zizimaro	A+	1×	48/53	  GET
- Hakaru Muromachi	A+	1×	41/53	  GET
+ Kiwistunz	A+	1×	47/53	  GET
+ Moop	A+	1×	49/53	  GET
+ Austin Ulfers	A-	1×	36/53	  GET
+ Steve Gomez	A+	1×	49/53	  GET
+ Mikael Vaede	A-	1×	44/53	  GET
  Jeff Persons	C	1×	5/53	  GET
- Xelthor	A	1×	35/53	  GET
- Shaman Suresh	A+	1×	44/53	  GET
- Cherie Young	A+	1×	42/53	  GET
- Moop	A+	1×	43/53	  GET
- Steve Gomez	A+	1×	44/53	  GET
- Jason Rogers	A+	1×	40/53	  GET
+ William Brown	A+	1×	47/53	  GET
+ Cherie Young	A	1×	43/53	  GET
+ Rachel McCullough	A+	1×	37/53	  GET
+ Aware	A	1×	38/53	  GET
+ Jim Todd	A+	1×	52/53	  GET
+ Special_tree	C-	1×	26/53	  GET
+ Hakaru Muromachi	A+	1×	42/53	  GET
+ Luis Ruiz	B	1×	32/53	  GET
+ narutofan10	A+	1×	42/53	  GET
+ Jason Rogers	A+	1×	45/53	  GET
+ Xelthor	A+	1×	36/53	  GET

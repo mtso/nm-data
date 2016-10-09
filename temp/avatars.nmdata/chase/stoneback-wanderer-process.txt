@@ -1,23 +1,32 @@
-Accessed on Thu Sep 15 2016 00:57:56 GMT-0700 (PDT)
+Accessed on Sun Oct 09 2016 11:53:42 GMT-0700 (PDT)
  
 ×
 
-13 Owners Of Stoneback Wanderer [Process]
+22 Owners Of Stoneback Wanderer [Process]
 All collectors with one or more of these.
 COLLECTOR	TRADER
 GRADE	# OWNED	
 "AVATARS"
 COMPLETION
- Mkrusipro	A+	1×	34/53	  GET
- Briana Wiblitzhouser	A+	1×	40/53	  GET
- Rubber Duck	A+	1×	30/53	  GET
- Yarrum	A	1×	40/53	  GET
- Reagan	A-	1×	39/53	  GET
- Pedro Castella	A+	1×	36/53	  GET
- John Grahl	A+	1×	36/53	  GET
- Iflipthecookie	C+	1×	36/53	  GET
- S K	A	1×	26/53	  GET
- Kennedy Floyd	A+	1×	30/53	  GET
- Aaron Young	A+	1×	43/53	  GET
- Marcio Marques Soares	A+	1×	44/53	  GET
- Grgzhng	A-	1×	43/53	  GET
+ Reagan	B	1×	39/53	  GET
+ Briana Wiblitzhouser	A-	1×	40/53	  GET
+ Purple_drogger	D+	1×	40/53	  GET
+ Kennedy Floyd	A+	1×	31/53	  GET
+ Rubber Duck	A-	1×	30/53	  GET
+ Aaron Young	A+	1×	50/53	  GET
+ Pedro Castella	A	1×	40/53	  GET
+ Iflipthecookie	B-	1×	43/53	  GET
+ Lunaticturtle	A	1×	5/53	  GET
+ Max Nachlinger	A+	1×	41/53	  GET
+ Vongrak	A+	1×	37/53	  GET
+ Kingcheesepuff	A	1×	41/53	  GET
+ Grgzhng	B-	1×	43/53	  GET
+ Mkrusipro	A+	1×	41/53	  GET
+ Dario	B	1×	31/53	  GET
+ Nkeithart	A+	1×	44/53	  GET
+ Sequoia B.M.	A+	1×	42/53	  GET
+ S K	A	1×	31/53	  GET
+ Marcio Marques Soares	A+	1×	47/53	  GET
+ Giovannimaghi92	A+	1×	45/53	  GET
+ John Grahl	A+	1×	40/53	  GET
+ Yarrum	A+	1×	42/53	  GET

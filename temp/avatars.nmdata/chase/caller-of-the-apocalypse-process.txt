@@ -1,27 +1,33 @@
-Accessed on Thu Sep 15 2016 00:41:20 GMT-0700 (PDT)
+Accessed on Sun Oct 09 2016 11:36:43 GMT-0700 (PDT)
  
 ×
 
-17 Owners Of Caller of the Apocalypse [Process]
+23 Owners Of Caller of the Apocalypse [Process]
 All collectors with one or more of these.
 COLLECTOR	TRADER
 GRADE	# OWNED	
 "AVATARS"
 COMPLETION
- Dave Wilhelm	A+	1×	44/53	  GET
- lava hawk	A+	1×	39/53	  GET
- Nathsic	B-	1×	41/53	  GET
- Pikapancakes	A-	1×	15/53	  GET
- Naranda	A+	1×	43/53	  GET
- Emmanuel	A+	1×	42/53	  GET
- Mike Logaz	A+	1×	37/53	  GET
+ Dave Wilhelm	A+	1×	49/53	  GET
+ Robert Gronewold	A+	1×	45/53	  GET
+ Elijah Huff	A+	1×	50/53	  GET
+ Nathsic	C+	1×	42/53	  GET
  Fabled3000	A+	1×	42/53	  GET
- Pedro Castella	A+	1×	36/53	  GET
- Makayla Chamness	A+	1×	30/53	  GET
- Dragonite	A+	1×	39/53	  GET
- Kyle Gunderson	B+	1×	22/53	  GET
- Robert Gronewold	A+	1×	41/53	  GET
- Spyke	A+	1×	43/53	  GET
- Itatly	A+	1×	39/53	  GET
- Danielle	A+	1×	41/53	  GET
- Jezel Eguia	A-	1×	29/53	  GET
+ Jezel Eguia	B	1×	29/53	  GET
+ Hewer Situ	A+	1×	38/53	  GET
+ Naranda	B+	1×	48/53	  GET
+ Mike Logaz	A+	1×	38/53	  GET
+ the bastard	F	1×	30/53	  GET
+ Jimjimbobim	A+	1×	45/53	  GET
+ Emmanuel	A+	1×	47/53	  GET
+ Erised	A+	1×	41/53	  GET
+ lava hawk	A+	1×	44/53	  GET
+ Kyle Gunderson	B	1×	22/53	  GET
+ Makayla Chamness	A+	1×	38/53	  GET
+ Pedro Castella	A	1×	40/53	  GET
+ Danielle	A	1×	41/53	  GET
+ Corvus Draco	A+	1×	32/53	  GET
+ Itatly	A+	1×	42/53	  GET
+ Pequisa	A+	1×	53/53	  GET
+ Pikapancakes	B+	1×	15/53	  GET
+ Spyke	A+	1×	48/53	  GET

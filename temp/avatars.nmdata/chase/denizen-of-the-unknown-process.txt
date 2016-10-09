@@ -1,24 +1,26 @@
-Accessed on Thu Sep 15 2016 00:43:42 GMT-0700 (PDT)
+Accessed on Sun Oct 09 2016 11:39:08 GMT-0700 (PDT)
  
 ×
 
-14 Owners Of Denizen of the Unknown [Process]
+16 Owners Of Denizen of the Unknown [Process]
 All collectors with one or more of these.
 COLLECTOR	TRADER
 GRADE	# OWNED	
 "AVATARS"
 COMPLETION
- Sequoia B.M.	A+	1×	34/53	  GET
- Shannon Dehne	A+	1×	38/53	  GET
- Illusivemuffin	C	1×	4/53	  GET
- Nickquest	A-	1×	4/53	  GET
- Cameron.vaillancourt	A+	1×	24/53	  GET
- Nekobread	B	1×	30/53	  GET
- Imperator Furiosa	D	1×	22/53	  GET
  Mary Collett	B-	1×	10/53	  GET
- Yoshikuni Kakeru	A+	1×	38/53	  GET
- Charlie.anna	A+	1×	38/53	  GET
- batiskafo	A+	1×	44/53	  GET
+ Illusivemuffin	C	1×	4/53	  GET
+ Kieran Gunn	A+	1×	42/53	  GET
+ Shannon Dehne	A+	1×	39/53	  GET
  Izzaro21	A+	1×	34/53	  GET
- Matt	A+	1×	47/53	  GET
- DMPL	A+	1×	37/53	  GET
+ Yoshikuni Kakeru	A+	1×	43/53	  GET
+ Nickquest	B	1×	4/53	  GET
+ Vexify	B	1×	6/53	  GET
+ Sequoia B.M.	A+	1×	42/53	  GET
+ batiskafo	A+	1×	47/53	  GET
+ Charlie.anna	A+	1×	43/53	  GET
+ Nekobread	B-	1×	30/53	  GET
+ Cameron.vaillancourt	A+	1×	24/53	  GET
+ Matt	A+	1×	49/53	  GET
+ DMPL	A+	1×	39/53	  GET
+ Imperator Furiosa	D	1×	22/53	  GET

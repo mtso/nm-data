@@ -1,21 +1,33 @@
-Accessed on Thu Sep 15 2016 00:48:52 GMT-0700 (PDT)
+Accessed on Sun Oct 09 2016 11:44:24 GMT-0700 (PDT)
  
 ×
 
-11 Owners Of Herald of the Woods [Process]
+23 Owners Of Herald of the Woods [Process]
 All collectors with one or more of these.
 COLLECTOR	TRADER
 GRADE	# OWNED	
 "AVATARS"
 COMPLETION
- Jonathan Swenson	A+	1×	38/53	  GET
- J B	A+	1×	53/53	  GET
- Weilin Liao	A+	1×	41/53	  GET
- CMW	A+	1×	41/53	  GET
- 7dod	A+	1×	39/53	  GET
- Andreea Danielescu	A+	1×	43/53	  GET
+ Hivemind	D-	1×	7/53	  GET
+ Vanillabliss	A+	1×	52/53	  GET
+ Michelle Davies	C-	1×	30/53	  GET
+ Jonathan Swenson	A+	1×	41/53	  GET
  Jason Rawls	A+	1×	53/53	  GET
- Sephiro Patrick Ma	A+	1×	39/53	  GET
- Blue Waterfall	A+	1×	34/53	  GET
- Cyrus Malkin	A+	1×	52/53	  GET
+ Weilin Liao	A+	1×	44/53	  GET
+ CMW	A+	1×	43/53	  GET
+ Andreea Danielescu	A+	1×	49/53	  GET
  Fruitylord	A+	1×	23/53	  GET
+ 13udha	A+	1×	40/53	  GET
+ Blue Waterfall	A	1×	34/53	  GET
+ Benedick Bana	A	1×	36/53	  GET
+ Raoul Duke	A+	1×	42/53	  GET
+ Igor Henckes	A+	1×	46/53	  GET
+ Jbot5k	A+	1×	43/53	  GET
+ Nicholas Thompson	A+	1×	40/53	  GET
+ Cyrus Malkin	A+	1×	53/53	  GET
+ Bryan Horsey	B+	1×	35/53	  GET
+ Miguel Maziero	A+	1×	18/53	  GET
+ Els Mercken	A+	1×	49/53	  GET
+ J B	A+	1×	53/53	  GET
+ 7dod	A+	1×	41/53	  GET
+ Eduardo Arteaga	C+	1×	38/53	  GET

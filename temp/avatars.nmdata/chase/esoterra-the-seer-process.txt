@@ -1,23 +1,34 @@
-Accessed on Thu Sep 15 2016 00:44:53 GMT-0700 (PDT)
+Accessed on Sun Oct 09 2016 11:40:20 GMT-0700 (PDT)
  
 ×
 
-13 Owners Of Esoterra, the Seer [Process]
+24 Owners Of Esoterra, the Seer [Process]
 All collectors with one or more of these.
 COLLECTOR	TRADER
 GRADE	# OWNED	
 "AVATARS"
 COMPLETION
- Jennifer Shtefan	A+	1×	39/53	  GET
- Alfred Rivera	A+	1×	44/53	  GET
- Phillypu	A+	1×	46/53	  GET
- Ridonkulous	A+	1×	41/53	  GET
- Thetoonwizard	A	1×	30/53	  GET
- James McLeod	A-	1×	38/53	  GET
  Herman Yang	A+	1×	43/53	  GET
- Akihirokujo	A+	1×	33/53	  GET
- J B	A+	1×	53/53	  GET
  Rachel	A+	1×	45/53	  GET
- Edgarruiz	A+	1×	39/53	  GET
- Cory Ruda	A+	1×	44/53	  GET
- Artgirl62	C+	1×	13/53	  GET
+ Sammyschw	B	1×	26/53	  GET
+ Tauntaunrider	A+	1×	41/53	  GET
+ Emory	A+	1×	51/53	  GET
+ Cory Ruda	A+	1×	52/53	  GET
+ Spaghetti Spaghetti	A+	1×	50/53	  GET
+ James McLeod	A+	1×	38/53	  GET
+ Edgarruiz	A+	1×	40/53	  GET
+ Phillypu	A+	1×	48/53	  GET
+ Giacomo Maggi	A+	1×	48/53	  GET
+ Akihirokujo	A+	1×	42/53	  GET
+ J B	A+	1×	53/53	  GET
+ Ridonkulous	A+	1×	44/53	  GET
+ Neonmobster_19793	B	1×	5/53	  GET
+ Alfred Rivera	A+	1×	49/53	  GET
+ David Casey	A+	1×	35/53	  GET
+ Benhowarth531	A+	1×	45/53	  GET
+ Artgirl62	C+	1×	29/53	  GET
+ Nico Hart	A+	1×	45/53	  GET
+ Jennifer Shtefan	A+	1×	48/53	  GET
+ Thetoonwizard	A	1×	36/53	  GET
+ Ernest Mattingly	A+	1×	48/53	  GET
+ Julia Teles	A+	1×	43/53	  GET

@@ -1,23 +1,26 @@
-Accessed on Thu Sep 15 2016 01:05:06 GMT-0700 (PDT)
+Accessed on Sun Oct 09 2016 12:00:59 GMT-0700 (PDT)
  
 ×
 
-13 Owners Of Ya'tuu, The Soul Hoarder [Process]
+16 Owners Of Ya'tuu, The Soul Hoarder [Process]
 All collectors with one or more of these.
 COLLECTOR	TRADER
 GRADE	# OWNED	
 "AVATARS"
 COMPLETION
- Schrodingers Box	A+	1×	42/53	  GET
- Trevor Wild	A+	1×	41/53	  GET
- David Sepel	A+	1×	38/53	  GET
- Jennifer Shtefan	A+	1×	39/53	  GET
- Caitlin L.	A+	1×	37/53	  GET
- Jay Wu	A	1×	43/53	  GET
- EmVee	A+	1×	45/53	  GET
+ Jay Wu	B	2×	43/53	  GET
+ David Sepel	A+	1×	46/53	  GET
+ Trevor Wild	A+	1×	42/53	  GET
+ Pepsi Fur	A+	1×	37/53	  GET
+ David Hua	A+	1×	44/53	  GET
+ David Duncan	A-	1×	45/53	  GET
+ Emmanuel	A+	1×	47/53	  GET
+ Sami Khodir	C+	1×	45/53	  GET
+ Jennifer Shtefan	A+	1×	48/53	  GET
+ zodalx	A+	1×	45/53	  GET
+ Eldagast	A+	1×	46/53	  GET
  Hendrik Lian	B-	1×	38/53	  GET
- David Hua	A+	1×	39/53	  GET
- Sami Khodir	A+	1×	45/53	  GET
- zodalx	A+	1×	38/53	  GET
- Emmanuel	A+	1×	42/53	  GET
- Mroz4k	A+	1×	39/53	  GET
+ EmVee	A+	1×	46/53	  GET
+ Mroz4k	B	1×	43/53	  GET
+ Schrodingers Box	A+	1×	44/53	  GET
+ Caitlin L.	A+	1×	44/53	  GET

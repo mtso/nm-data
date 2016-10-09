@@ -1,26 +1,33 @@
-Accessed on Thu Sep 15 2016 01:04:19 GMT-0700 (PDT)
+Accessed on Sun Oct 09 2016 12:00:11 GMT-0700 (PDT)
  
 ×
 
-16 Owners Of Xylia, the Reaper Witch [Process]
+23 Owners Of Xylia, the Reaper Witch [Process]
 All collectors with one or more of these.
 COLLECTOR	TRADER
 GRADE	# OWNED	
 "AVATARS"
 COMPLETION
- V4Violetta	A+	1×	28/53	  GET
- Emmanuel	A+	1×	42/53	  GET
- Alex Bright	D+	1×	9/53	  GET
- Ezylryb	A+	1×	46/53	  GET
- David Duncan	A+	1×	43/53	  GET
- Anya Varik	A-	1×	36/53	  GET
- Lucas Tetrault	A+	1×	43/53	  GET
- Neonmobster_978	A+	1×	42/53	  GET
+ Timmcanpy	A+	1×	41/53	  GET
+ HardyHero	A	1×	47/53	  GET
+ Christian Benedict Vallecer	B	1×	33/53	  GET
+ Anya Varik	A+	1×	37/53	  GET
+ Alex Bright	D	1×	9/53	  GET
+ V4Violetta	A+	1×	39/53	  GET
+ Nikolas0	A+	1×	39/53	  GET
+ Emmanuel	A+	1×	47/53	  GET
+ jakemacneil	A+	1×	46/53	  GET
+ Vaschmir	A+	1×	50/53	  GET
+ Ashley Logan	A+	1×	47/53	  GET
+ Michael Wallace	A+	1×	50/53	  GET
+ Neonmobster_978	A	1×	44/53	  GET
+ Mr.bregi	A+	1×	43/53	  GET
+ Miffles Stubbypaws	A	1×	45/53	  GET
+ Lucas Tetrault	A+	1×	46/53	  GET
+ David Duncan	A-	1×	45/53	  GET
  Zoe TwoDots	A+	1×	8/53	  GET
- Mr.bregi	A+	1×	40/53	  GET
- Christian Benedict Vallecer	B	1×	24/53	  GET
- Winnie Lao	A+	1×	44/53	  GET
- Justin Kuntz	A+	1×	29/53	  GET
- Michael Wallace	A+	1×	46/53	  GET
- Ashley Logan	A+	1×	45/53	  GET
- Nikolas0	A+	1×	38/53	  GET
+ Justin Kuntz	A+	1×	37/53	  GET
+ jrose	A+	1×	43/53	  GET
+ Winnie Lao	A+	1×	46/53	  GET
+ Artfulizzy	B	1×	34/53	  GET
+ James Howarth	A+	1×	45/53	  GET

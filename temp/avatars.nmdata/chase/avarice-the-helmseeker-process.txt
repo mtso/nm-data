@@ -1,26 +1,31 @@
-Accessed on Thu Sep 15 2016 00:38:57 GMT-0700 (PDT)
+Accessed on Sun Oct 09 2016 11:34:17 GMT-0700 (PDT)
  
 ×
 
-16 Owners Of Avarice, the Helmseeker [Process]
+21 Owners Of Avarice, the Helmseeker [Process]
 All collectors with one or more of these.
 COLLECTOR	TRADER
 GRADE	# OWNED	
 "AVATARS"
 COMPLETION
- ffkei777	A+	1×	43/53	  GET
- Mandi Carpenter	A+	1×	34/53	  GET
- Yoshikuni Kakeru	A+	1×	38/53	  GET
- Kimmy Boo	A+	1×	30/53	  GET
- sergio	A+	1×	43/53	  GET
- Yezi	A+	1×	41/53	  GET
- Nathsic	B-	1×	41/53	  GET
- Jean-Philippe Doré	A+	1×	41/53	  GET
- Edwin Cortes	A+	1×	36/53	  GET
- Seafoodsurfer	A+	1×	49/53	  GET
- Jango	A+	1×	14/53	  GET
- Ray Weis	A+	1×	5/53	  GET
- Scott	A+	1×	41/53	  GET
- Yavonn Smart	A+	1×	35/53	  GET
- Nathan	A+	1×	49/53	  GET
- Cheszali Erestain	A+	1×	43/53	  GET
+ Nathan	B+	1×	50/53	  GET
+ Grace Ann Buenaventura	A	1×	44/53	  GET
+ sergio	A+	1×	45/53	  GET
+ Jean-Philippe Doré	A+	1×	45/53	  GET
+ Nathsic	C+	1×	42/53	  GET
+ Mandi Carpenter	A+	1×	38/53	  GET
+ Max Nachlinger	A+	1×	41/53	  GET
+ Yezi	C	1×	41/53	  GET
+ Danny D	A+	1×	32/53	  GET
+ Yoshikuni Kakeru	A+	1×	43/53	  GET
+ Makayla Chamness	A+	1×	38/53	  GET
+ Seafoodsurfer	A+	1×	53/53	  GET
+ Jango	A+	1×	18/53	  GET
+ Edwin Cortes	A+	1×	44/53	  GET
+ Ray Weis	A+	1×	9/53	  GET
+ Yavonn Smart	A+	1×	39/53	  GET
+ Cheszali Erestain	A+	1×	46/53	  GET
+ Scott	A+	1×	43/53	  GET
+ ffkei777	A+	1×	45/53	  GET
+ Kimmy Boo	A+	1×	32/53	  GET
+ Mizorath	A+	1×	42/53	  GET

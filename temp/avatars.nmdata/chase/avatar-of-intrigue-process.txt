@@ -1,32 +1,44 @@
-Accessed on Thu Sep 15 2016 00:39:22 GMT-0700 (PDT)
+Accessed on Sun Oct 09 2016 11:34:41 GMT-0700 (PDT)
  
 ×
 
-22 Owners Of Avatar of Intrigue [Process]
+34 Owners Of Avatar of Intrigue [Process]
 All collectors with one or more of these.
 COLLECTOR	TRADER
 GRADE	# OWNED	
 "AVATARS"
 COMPLETION
- Tjulen	C+	1×	32/53	  GET
- Sami Khodir	A+	1×	45/53	  GET
- Tauntaunrider	A+	1×	39/53	  GET
- Paul Macellones	F	1×	24/53	  GET
- Chained Nightmare	A+	1×	52/53	  GET
- Mizorath	A+	1×	38/53	  GET
- Paulor	A	1×	36/53	  GET
- Ricardo Santos	A+	1×	42/53	  GET
- Mastur_baker	A+	1×	39/53	  GET
- Leann Thieu	A+	1×	33/53	  GET
- Zack Sledge	A+	1×	35/53	  GET
- James Fox Robinson	A+	1×	40/53	  GET
- Neonmobster_18845	A	1×	31/53	  GET
- Whitewolfgaming	C-	1×	10/53	  GET
- Emmanuel	A+	1×	42/53	  GET
- Scoots	D	1×	33/53	  GET
- Papercut	A+	1×	50/53	  GET
+ Scoots	D	1×	41/53	  GET
+ Nicodeamus	A+	1×	43/53	  GET
+ Neonmobster_19515	A+	1×	45/53	  GET
+ Emmanuel	A+	1×	47/53	  GET
+ Tjulen	C	1×	32/53	  GET
  Lifeliked	A+	1×	23/53	  GET
- Alberto Bernard	A+	1×	44/53	  GET
- DoctorFluffy	A+	1×	42/53	  GET
- Ashley Logan	A+	1×	45/53	  GET
- Shadowmetaru	A-	1×	28/53	  GET
+ Paulor	A-	1×	36/53	  GET
+ Chaos	A	1×	39/53	  GET
+ Ashley Logan	A+	1×	47/53	  GET
+ Whitewolfgaming	C-	1×	18/53	  GET
+ Pequisa	A+	1×	53/53	  GET
+ Leann Thieu	A+	1×	33/53	  GET
+ Leandropeliciari99	A+	1×	45/53	  GET
+ Virginia "Magnolia" Pratcher and the MissOldNeonmob Hallows	A+	1×	49/53	  GET
+ Paul Macellones	F	1×	24/53	  GET
+ Mastur_baker	A+	1×	39/53	  GET
+ kostasthedragon	A+	1×	44/53	  GET
+ Ricardo Santos	A+	1×	44/53	  GET
+ Nina	A+	1×	35/53	  GET
+ Josh Ku	A+	1×	39/53	  GET
+ James Fox Robinson	A+	1×	42/53	  GET
+ Collector_rj	C+	1×	23/53	  GET
+ Aaron McDermott	A+	1×	39/53	  GET
+ Zack Sledge	A-	1×	37/53	  GET
+ Devout Faith	C	1×	50/53	  GET
+ Monomi	A	1×	35/53	  GET
+ Sami Khodir	C+	1×	45/53	  GET
+ Neonmobster_18845	B	1×	31/53	  GET
+ Mizorath	A+	1×	42/53	  GET
+ Cogkat2406	B-	1×	21/53	  GET
+ Alberto Bernard	A+	1×	50/53	  GET
+ DoctorFluffy	A+	1×	44/53	  GET
+ Tauntaunrider	A+	1×	41/53	  GET
+ Pawel	B+	1×	21/53	  GET

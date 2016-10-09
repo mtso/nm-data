@@ -1,22 +1,35 @@
-Accessed on Thu Sep 15 2016 00:40:10 GMT-0700 (PDT)
+Accessed on Sun Oct 09 2016 11:35:30 GMT-0700 (PDT)
  
 ×
 
-12 Owners Of Avatar of Sargas Reach [Process]
+25 Owners Of Avatar of Sargas Reach [Process]
 All collectors with one or more of these.
 COLLECTOR	TRADER
 GRADE	# OWNED	
 "AVATARS"
 COMPLETION
- Scoots	D	2×	33/53	  GET
- Shelly Gagnon	A+	1×	39/53	  GET
- Daniel Sigal	A+	1×	45/53	  GET
+ Scoots	D	2×	41/53	  GET
+ Aeon	A+	1×	36/53	  GET
+ Jae	A+	1×	32/53	  GET
+ Youssef Hachhouch	A+	1×	43/53	  GET
+ S K	A	1×	31/53	  GET
+ Colby Stoner	D	1×	25/53	  GET
+ Dillar	A	1×	38/53	  GET
+ Ramiz Yusifov	B	1×	35/53	  GET
+ C-Dog	A+	1×	24/53	  GET
+ Ipocalypse	A+	1×	48/53	  GET
+ Vilana101004	A	1×	44/53	  GET
+ Targonca	A+	1×	40/53	  GET
+ Wax_packs	A+	1×	49/53	  GET
+ Qazyn	A+	1×	50/53	  GET
+ Daniel Sigal	A+	1×	46/53	  GET
  Dominic Flask	A+	1×	53/53	  GET
- Lucamber0821	B	1×	20/53	  GET
- Mikey	A+	1×	42/53	  GET
- Colby Stoner	C	1×	22/53	  GET
- Dan Moyer	A+	1×	45/53	  GET
- Jeremy Suiter	A+	1×	27/53	  GET
- Wax_packs	A+	1×	46/53	  GET
- C-Dog	A+	1×	19/53	  GET
- Youssef Hachhouch	A+	1×	36/53	  GET
+ Stoic	A+	1×	36/53	  GET
+ Mikey	A+	1×	44/53	  GET
+ Lucamber0821	A+	1×	40/53	  GET
+ Redal Go	D+	1×	10/53	  GET
+ Mitchell	A+	1×	30/53	  GET
+ Shelly Gagnon	A+	1×	40/53	  GET
+ Dan Moyer	A+	1×	46/53	  GET
+ Smatty	A+	1×	35/53	  GET
+ Nick Sabre	A+	1×	53/53	  GET

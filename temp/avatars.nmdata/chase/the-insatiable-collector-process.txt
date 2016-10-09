@@ -1,22 +1,28 @@
-Accessed on Thu Sep 15 2016 00:59:07 GMT-0700 (PDT)
+Accessed on Sun Oct 09 2016 11:54:55 GMT-0700 (PDT)
  
 ×
 
-12 Owners Of The Insatiable Collector [Process]
+18 Owners Of The Insatiable Collector [Process]
 All collectors with one or more of these.
 COLLECTOR	TRADER
 GRADE	# OWNED	
 "AVATARS"
 COMPLETION
- Miryam Mara	B+	1×	49/53	  GET
- Grimblood	A+	1×	33/53	  GET
- Ham Solo	A+	1×	12/53	  GET
- Raven	A+	1×	38/53	  GET
+ Ham Solo	A	1×	25/53	  GET
+ Smogthebear	A+	1×	41/53	  GET
+ Emory	A+	1×	51/53	  GET
+ Andreea Danielescu	A+	1×	49/53	  GET
+ Tony Bolony	A+	1×	53/53	  GET
  Jenn	A+	1×	42/53	  GET
- Neonmobster_1205	A+	1×	41/53	  GET
- Laura	A+	1×	45/53	  GET
+ Neonmobster_1205	A+	1×	43/53	  GET
+ Schrodingers Box	A+	1×	44/53	  GET
+ I10kz	C+	1×	13/53	  GET
+ Laura	A+	1×	50/53	  GET
  Dominic Flask	A+	1×	53/53	  GET
- I10kz	A+	1×	13/53	  GET
- Sephiro Patrick Ma	A+	1×	39/53	  GET
- Kaosknight	A+	1×	37/53	  GET
+ Grimblood	A+	1×	40/53	  GET
+ Ritz Altairis	A+	1×	37/53	  GET
+ Miryam Mara	B+	1×	49/53	  GET
  Austin Simmons	C	1×	6/53	  GET
+ Reo	A+	1×	34/53	  GET
+ Raven	A+	1×	46/53	  GET
+ Kaosknight	A+	1×	42/53	  GET

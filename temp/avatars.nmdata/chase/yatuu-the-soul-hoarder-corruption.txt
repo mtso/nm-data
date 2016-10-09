@@ -1,19 +1,27 @@
-Accessed on Thu Sep 15 2016 01:04:42 GMT-0700 (PDT)
+Accessed on Sun Oct 09 2016 12:00:35 GMT-0700 (PDT)
  
 ×
 
-9 Owners Of Ya'tuu, The Soul Hoarder [Corruption]
+17 Owners Of Ya'tuu, The Soul Hoarder [Corruption]
 All collectors with one or more of these.
 COLLECTOR	TRADER
 GRADE	# OWNED	
 "AVATARS"
 COMPLETION
- Alex Borrallo	A+	1×	37/53	  GET
- ERayque	A+	1×	40/53	  GET
- Cyrus Malkin	A+	1×	52/53	  GET
- hching	A+	1×	46/53	  GET
- Mouseblast	A+	1×	42/53	  GET
- Elyzalex	A+	1×	45/53	  GET
- Jorgf	A+	1×	34/53	  GET
- Ag3ntxii	A+	1×	44/53	  GET
+ Dominic Flask	A+	1×	53/53	  GET
  Artfervor	B	1×	5/53	  GET
+ Emory	A+	1×	51/53	  GET
+ Jorgf	A-	1×	34/53	  GET
+ Alex Borrallo	A+	1×	37/53	  GET
+ ERayque	A+	1×	45/53	  GET
+ Mouseblast	A+	1×	43/53	  GET
+ Kemeticcheshire	F+	1×	14/53	  GET
+ William Brown	A+	1×	47/53	  GET
+ Always_robby	A+	1×	39/53	  GET
+ Ethan Gomez-Roxas	A+	1×	44/53	  GET
+ Elyzalex	A+	1×	45/53	  GET
+ Vanillabliss	A+	1×	52/53	  GET
+ Ag3ntxii	A+	1×	44/53	  GET
+ hching	B+	1×	47/53	  GET
+ Hunter Sharum	A+	1×	45/53	  GET
+ Cyrus Malkin	A+	1×	53/53	  GET

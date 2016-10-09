@@ -1,591 +1,869 @@
-Accessed on Thu Sep 15 2016 00:31:46 GMT-0700 (PDT)
+Accessed on Sun Oct 09 2016 11:25:16 GMT-0700 (PDT)
  
 ×
 
-581 Owners Of The Weary Wanderer
+859 Owners Of The Weary Wanderer
 All collectors with one or more of these.
 COLLECTOR	TRADER
 GRADE	# OWNED	
 "AVATARS"
 COMPLETION
- Eli French	A	2×	39/53	  GET
- Davekaleta	A+	2×	40/53	  GET
- Carine Belzon	A+	2×	40/53	  GET
- Taimaniac	A	2×	43/53	  GET
- hching	A+	2×	46/53	  GET
- Brian Scarcello	A+	2×	34/53	  GET
- J B	A+	2×	53/53	  GET
+ Anastasia Rozynska	C+	2×	41/53	  GET
+ Zong-Lin Jhuang	A+	4×	44/53	  GET
+ Randallpinkflyd	A+	2×	49/53	  GET
+ Buzzofficial	F	2×	5/53	  GET
+ Brad Hoffman	A+	3×	49/53	  GET
+ Annelise Knoot	A+	2×	44/53	  GET
+ David Frost	A	2×	48/53	  GET
+ Artemis Cho	A	2×	44/53	  GET
+ Shaman Suresh	A+	3×	46/53	  GET
+ Chmeee	A	2×	46/53	  GET
+ Pandamistsoldier	A+	2×	43/53	  GET
+ Seafoodsurfer	A+	2×	53/53	  GET
+ Cramer	A+	2×	49/53	  GET
+ Hironori Taniguchi	A+	2×	41/53	  GET
+ Loffel	A+	2×	44/53	  GET
+ Ernest Mattingly	A+	2×	48/53	  GET
+ Brian Baron	A+	2×	45/53	  GET
+ Vanillabliss	A+	2×	52/53	  GET
+ cecilia barbosa	A+	2×	45/53	  GET
+ Cyrus Malkin	A+	3×	53/53	  GET
+ Kevin Plumley	A+	2×	44/53	  GET
+ Nick Sabre	A+	2×	53/53	  GET
+ Robin Bond	A+	2×	47/53	  GET
+ Lawliet	A+	2×	49/53	  GET
+ Rommel Singca	A+	2×	47/53	  GET
+ Dan Springer	A+	2×	44/53	  GET
+ Mastodon	A+	3×	47/53	  GET
  Chris LeDoux	A+	2×	53/53	  GET
- Andrei Cristian Petrilă	A+	2×	49/53	  GET
- Akeli	C	2×	34/53	  GET
- Ernest Mattingly	A+	2×	45/53	  GET
- Mastodon	A+	2×	42/53	  GET
- cecilia barbosa	A+	2×	42/53	  GET
- Matt	A+	2×	47/53	  GET
- Aaron Young	A+	2×	43/53	  GET
- Amemiyatayou	A-	2×	39/53	  GET
- Catpixels	A+	2×	44/53	  GET
- William Collier-Byrd	A+	2×	45/53	  GET
- Bogdan Trachev	A+	2×	49/53	  GET
- Marcio Marques Soares	A+	2×	44/53	  GET
- Chained Nightmare	A+	2×	52/53	  GET
- Chmeee	A+	2×	44/53	  GET
+ J B	A+	2×	53/53	  GET
  William Brown	A+	2×	47/53	  GET
- Virginia "Magnolia" Pratcher and the MissOldNeonmob Hallows	A+	3×	48/53	  GET
- RuyGDA	A+	2×	44/53	  GET
- Mcnabbi	A+	2×	44/53	  GET
- Vossk Hraesvelg	A+	2×	43/53	  GET
- Marcio Barrios	A+	2×	44/53	  GET
- Randallpinkflyd	A+	2×	44/53	  GET
- Buzzofficial	F+	2×	5/53	  GET
- Michael Rios	A+	2×	53/53	  GET
- Amy Reesor	A+	2×	46/53	  GET
- Bloodasp01	A+	2×	46/53	  GET
- Artemis Cho	A+	2×	43/53	  GET
- galliard von Sillein	A+	2×	43/53	  GET
+ Amy Reesor	A	2×	50/53	  GET
+ Els Mercken	A+	2×	49/53	  GET
+ Vilana101004	A	2×	44/53	  GET
+ Aaron Young	A+	2×	50/53	  GET
+ Sharoontheraccoon	A+	2×	47/53	  GET
+ Sorrowmicasa	A+	2×	46/53	  GET
+ Crazychick7	A+	2×	44/53	  GET
+ Shuunka	A+	2×	50/53	  GET
+ Nathan.james.johnston	A+	2×	43/53	  GET
+ Michael Sinclair	A+	2×	48/53	  GET
+ Ako MarkVasquez	A+	2×	39/53	  GET
+ Jeff Helton	A+	2×	46/53	  GET
+ Matt Drake	A	2×	43/53	  GET
+ The_collector_	D	2×	35/53	  GET
+ William Collier-Byrd	A+	2×	47/53	  GET
+ Ethelinetenenb	A	2×	41/53	  GET
  Miryam Mara	B+	2×	49/53	  GET
- H2OMelon	A+	2×	42/53	  GET
- Zong-Lin Jhuang	A+	3×	42/53	  GET
- Paulo914	A-	2×	40/53	  GET
- Cyrus Malkin	A+	3×	52/53	  GET
- Dixon Vew Lim	A+	3×	42/53	  GET
- Kise77	A	1×	34/53	  GET
- Aquavire	D+	1×	22/53	  GET
- Marelle	A+	1×	45/53	  GET
- Rokrevthin	A+	1×	46/53	  GET
- Shyyyvee	A+	1×	42/53	  GET
- Ren Son	A+	1×	39/53	  GET
- DaEpikGuy	A+	1×	42/53	  GET
- Kaitlyn Jewel	B+	1×	33/53	  GET
- sergio	A+	1×	43/53	  GET
- Storyteller	A+	1×	38/53	  GET
- Steve Nelson	A+	1×	34/53	  GET
- LOL2125hulk What?	A+	1×	39/53	  GET
- Cee Cee	B+	1×	24/53	  GET
- Circuskidg	A+	1×	43/53	  GET
- Ridonkulous	A+	1×	41/53	  GET
- All_the_freaks	A+	1×	40/53	  GET
- Ray Lonsdale	A+	1×	41/53	  GET
- Alvasaur {PM FOR TRADE}	A+	1×	28/53	  GET
- 13udha	A+	1×	32/53	  GET
- Vincent Di Salvo	A+	1×	26/53	  GET
- Jean-Philippe Doré	A+	1×	41/53	  GET
- Neonmobster_17735	A+	1×	40/53	  GET
- Lauren Voorhees	A+	1×	45/53	  GET
- Jeremy	A	1×	22/53	  GET
- Mroz4k	A+	1×	39/53	  GET
- Naud van Dalen	A	1×	42/53	  GET
- Hayley	A+	1×	44/53	  GET
- Irishgirloriginal	A+	1×	40/53	  GET
- Neonmobster_19102	A+	1×	45/53	  GET
- Kristina Brungard	A	1×	39/53	  GET
- Hannah Bridgeman	A+	1×	17/53	  GET
- Thehave	B+	1×	29/53	  GET
- Andrewter	A+	1×	48/53	  GET
- Linus Lundahl	A+	1×	33/53	  GET
- Raevyn	A-	1×	35/53	  GET
- Kimmy Boo	A+	1×	30/53	  GET
- Chymeron	A+	1×	43/53	  GET
- Taylor Reeder	A+	1×	43/53	  GET
- Glenn Martin	C-	1×	37/53	  GET
- Quintin Hartman	A+	1×	41/53	  GET
- Hazel Chong	A+	1×	23/53	  GET
- Miffles Stubbypaws	A+	1×	45/53	  GET
- Celina Gr	A+	1×	44/53	  GET
- Mike Elder	D+	1×	7/53	  GET
- Scarablabs	A+	1×	23/53	  GET
- Genrel_id	A+	1×	46/53	  GET
- Macklmore	A+	1×	41/53	  GET
- Vaschmir	A+	1×	43/53	  GET
- Kaiyo	A+	1×	38/53	  GET
- Fiercefox52	A	1×	22/53	  GET
- DucAnh Le	A+	1×	39/53	  GET
- Els Mercken	A+	1×	43/53	  GET
- Howard Atlas	A+	1×	6/53	  GET
- Sev7n	F	1×	18/53	  GET
- Tara Von 6	A+	1×	43/53	  GET
- Julie	A+	1×	46/53	  GET
- Corramel	A+	1×	15/53	  GET
- Cameron Cooke	C	1×	6/53	  GET
- Nathy Loussop	A+	1×	40/53	  GET
- Speedygirl	A	1×	32/53	  GET
- Dhodg187	A+	1×	40/53	  GET
- Pedro.kutsmi	A+	1×	34/53	  GET
- Eldagast	A	1×	41/53	  GET
- Goodbead40	A+	1×	40/53	  GET
- Zeon	B	1×	6/53	  GET
- pronto_pup	A+	1×	40/53	  GET
- Edilson Alves	A+	1×	32/53	  GET
- Shaman Suresh	A+	1×	44/53	  GET
- Matt Clark	A-	1×	43/53	  GET
- Winson Goh	A+	1×	43/53	  GET
- Darin Grechus	A+	1×	43/53	  GET
- S K	A	1×	26/53	  GET
- Imlostcanuhelpme	A+	1×	44/53	  GET
- Da Ne	A+	1×	40/53	  GET
- Insanekitty32	A+	1×	27/53	  GET
- Eva Jay	B	1×	16/53	  GET
- Marcos Anguiano	A+	1×	42/53	  GET
- SnowBear	A+	1×	44/53	  GET
- Joanne Marris	A+	1×	44/53	  GET
- Hawkwind79	B	1×	19/53	  GET
- Sevilyra	A+	1×	44/53	  GET
- Hungryman	A+	1×	42/53	  GET
- Michael Mosher	A+	1×	44/53	  GET
- Noah Ortiz	A+	1×	39/53	  GET
- Bencrocker	A+	1×	43/53	  GET
- tteokbokki	A+	1×	46/53	  GET
- Angel B	A+	1×	46/53	  GET
- Andrew Leesman	A+	1×	41/53	  GET
- Sifort2012	A	1×	18/53	  GET
- Shere Khan	B+	1×	49/53	  GET
- Rachel Andrews	A	1×	25/53	  GET
- Mangareaderrad	A+	1×	43/53	  GET
- Lamaen Monkton	A+	1×	34/53	  GET
- Golden Fish Entertainment	A+	1×	36/53	  GET
- Rachel	A+	1×	45/53	  GET
- Ranpo	A+	1×	21/53	  GET
- Danilo	A-	1×	39/53	  GET
- Sally Tseng	A+	1×	42/53	  GET
- Rom Andutan	A	1×	37/53	  GET
- John Paul George Eguia	B+	1×	40/53	  GET
- Neonmobster_17779	A+	1×	34/53	  GET
- Jason Rawls	A+	1×	53/53	  GET
- Janetmartzero	A+	1×	19/53	  GET
- husahusa	A+	1×	38/53	  GET
- ziel klynx	A+	1×	40/53	  GET
- Victor Chiang	A+	1×	44/53	  GET
- DoctorFluffy	A+	1×	42/53	  GET
- Josh Stevers	A+	1×	36/53	  GET
- Ipocalypse	A+	1×	47/53	  GET
- Battlekingomegaman	A+	1×	41/53	  GET
- Kristen Bacoccini	B	1×	7/53	  GET
- Dennis Perlstein	A+	1×	44/53	  GET
- Jvmagicman	A+	1×	34/53	  GET
- Dragonite	A+	1×	39/53	  GET
- Gregu	A	1×	39/53	  GET
- Elrilgar	C	1×	9/53	  GET
- IsRick	B+	1×	16/53	  GET
- Lucas Tetrault	A+	1×	43/53	  GET
- Gilian Orphan	B+	1×	40/53	  GET
- LoudNoise	A+	1×	40/53	  GET
- Walter Kovacs	A+	1×	43/53	  GET
- Number Six	A+	1×	40/53	  GET
- Atatdriver	A+	1×	44/53	  GET
- Lucamber0821	B	1×	20/53	  GET
- Sirhagrid	A+	1×	46/53	  GET
- Tarielen Veritas	A+	1×	44/53	  GET
- Tanner Johnson	A+	1×	30/53	  GET
- W I L S O N	A+	1×	42/53	  GET
- Andrew Johnson	A+	1×	41/53	  GET
- Delesa Lc	A+	1×	32/53	  GET
- Timelessking	A+	1×	35/53	  GET
- Gustavo Hernandez	C+	1×	28/53	  GET
- Carlos Solano Rodríguez	C+	1×	30/53	  GET
- Tzel	A+	1×	33/53	  GET
- Kali Nelson	A+	1×	33/53	  GET
- Daniel Tang	B+	1×	18/53	  GET
- Jeddediah	A+	1×	38/53	  GET
- Shandee+Christopher Nis	A+	1×	38/53	  GET
- William Wisher	A+	1×	33/53	  GET
- Catherine	A+	1×	39/53	  GET
- Jason Smith	A+	1×	38/53	  GET
- Piclesboy	A+	1×	40/53	  GET
- Jennifer	A+	1×	41/53	  GET
- Tami CM	A+	1×	41/53	  GET
- Herman Yang	A+	1×	43/53	  GET
- Reaver	A+	1×	46/53	  GET
- Bevanbiko	A+	1×	46/53	  GET
- Linkle	A+	1×	39/53	  GET
- zodalx	A+	1×	38/53	  GET
- Kilian	A+	1×	46/53	  GET
- Iniferala	C-	1×	41/53	  GET
- Nikki Nonya Beeswax	A+	1×	27/53	  GET
- Caramel Toffee	A+	1×	43/53	  GET
- Chasson Skervin	A+	1×	36/53	  GET
- Sara Lyn	B-	1×	22/53	  GET
- Smogthebear	A+	1×	39/53	  GET
- Marc Antoine	A+	1×	47/53	  GET
- Seafoodsurfer	A+	1×	49/53	  GET
- Shawna Aponte	A+	1×	40/53	  GET
- Robby Miller	A+	1×	36/53	  GET
- David Sepel	A+	1×	38/53	  GET
- Sirlattius	A+	1×	44/53	  GET
- Dean Robinson	A+	1×	37/53	  GET
- Ronny H	D+	1×	6/53	  GET
- Bonnie Melton	F+	1×	29/53	  GET
- M	A+	1×	40/53	  GET
- Brad Hoffman	A+	1×	49/53	  GET
- Claude Goeminne	A+	1×	29/53	  GET
- Rei_zer0	A+	1×	30/53	  GET
- Hendrik Lian	B-	1×	38/53	  GET
- Robin Bray	A+	1×	53/53	  GET
- Kendar05	A+	1×	40/53	  GET
- Butterpig	F+	1×	8/53	  GET
- Imperator Furiosa	D	1×	22/53	  GET
- Juanita Bonvillain	A+	1×	38/53	  GET
- Rebecca	A+	1×	40/53	  GET
- Digisarz	A+	1×	25/53	  GET
- Nytunia	A+	1×	45/53	  GET
- Kat	A+	1×	45/53	  GET
- Mattino	A-	1×	34/53	  GET
- Leandropeliciari99	A+	1×	42/53	  GET
- James	A+	1×	42/53	  GET
- Michael Sinclair	A+	1×	44/53	  GET
- Rulerofthepotatoes	A+	1×	36/53	  GET
- Esmi	A+	1×	38/53	  GET
- Serenity Lee	A+	1×	48/53	  GET
- Nicholas Teo	C	1×	7/53	  GET
- Madison Ingerson	C	1×	19/53	  GET
- Immissjc	B-	1×	26/53	  GET
- Raimundo	A+	1×	38/53	  GET
- Jawbone999	A+	1×	39/53	  GET
- Thomas Ramos	A+	1×	39/53	  GET
- Lucie Rose	A+	1×	42/53	  GET
- Luc White	A+	1×	45/53	  GET
- Glenn Blanza	A+	1×	38/53	  GET
- Keira Robertson	C-	1×	10/53	  GET
- Winson	A+	1×	32/53	  GET
- Lawrence0721	A+	1×	38/53	  GET
- Ruemoon	A+	1×	46/53	  GET
- Mike Stickel	A+	1×	46/53	  GET
- Kiwistunz	A+	1×	44/53	  GET
- Intotheforests	A+	1×	25/53	  GET
- Stephany Senpai	A-	1×	32/53	  GET
- Andrea Sánchez	A	1×	39/53	  GET
- Doro Tea	A+	1×	39/53	  GET
- Daniel Sigal	A+	1×	45/53	  GET
- HarbingerOne	A+	1×	39/53	  GET
- Zanrin	A+	1×	41/53	  GET
- Narby	A+	1×	51/53	  GET
- Brains	A	1×	42/53	  GET
- Energywolf	A+	1×	43/53	  GET
- Emmanuel	A+	1×	42/53	  GET
- Shääd Kunkle	A+	1×	44/53	  GET
- Neonmobster_19530	C+	1×	13/53	  GET
- Gabatz613	A+	1×	11/53	  GET
- Sombrus666	A+	1×	40/53	  GET
- Chris Harrison	A+	1×	30/53	  GET
- Garfield	A-	1×	23/53	  GET
- Brianna Schlager	A+	1×	35/53	  GET
- Sang Nguyen	A+	1×	28/53	  GET
- Nicholaspence	B+	1×	10/53	  GET
- Orange Baastard	B	1×	21/53	  GET
- Morsmihi	A+	1×	31/53	  GET
- Zizimaro	A+	1×	48/53	  GET
- snakes snakes	A+	1×	41/53	  GET
- Ivy Liang	A+	1×	41/53	  GET
- Hayley Pearson	A+	1×	36/53	  GET
- Luke Brunswick	A+	1×	30/53	  GET
- Katie Knudson	A+	1×	43/53	  GET
- Zelfore	A+	1×	48/53	  GET
- Sam M	A+	1×	31/53	  GET
- Jeff Helton	A+	1×	43/53	  GET
- Jan Co	A+	1×	37/53	  GET
- Rbykarate	A+	1×	7/53	  GET
- David Florin	D+	1×	15/53	  GET
- Prt917	B	1×	36/53	  GET
- r00t	A+	1×	41/53	  GET
- Gameologist	A+	1×	25/53	  GET
- Itatly	A+	1×	39/53	  GET
- Adell Coulliette	C	1×	10/53	  GET
- Javi Marquez Reche	B	1×	18/53	  GET
- Cory Ruda	A+	1×	44/53	  GET
- Moonkitvelvet	A+	1×	45/53	  GET
- Brandon Stewart	A+	1×	34/53	  GET
- Ncl.nicoara	A+	1×	41/53	  GET
- CoolVibranium	A+	1×	40/53	  GET
- Mouseblast	A+	1×	42/53	  GET
- Spinezx	B+	1×	33/53	  GET
- KeithB	A+	1×	44/53	  GET
- Steve Bono	A+	1×	40/53	  GET
- Llminx	A+	1×	33/53	  GET
- Wax_packs	A+	1×	46/53	  GET
- Rommel Singca	A+	1×	47/53	  GET
- Allen Geneta	A+	1×	43/53	  GET
- Ako RalphLopez	A+	1×	30/53	  GET
- Javisa	A+	1×	40/53	  GET
- Brian Baron	A+	1×	40/53	  GET
- Brandon Hyman	A+	1×	30/53	  GET
- Frawst	A+	1×	47/53	  GET
- Neonmobster_9817	A+	1×	36/53	  GET
- Zack	A+	1×	22/53	  GET
- Normanus The Undying	A+	1×	40/53	  GET
- Niki	A-	1×	44/53	  GET
- Kaizla Wheaton	A+	1×	49/53	  GET
- Thor Andre Hammer Olsen	A+	1×	39/53	  GET
- Alberto Bernard	A+	1×	44/53	  GET
- Aleks Palichev	A-	1×	36/53	  GET
- Shuunka	A+	1×	48/53	  GET
- Dtherealk	A-	1×	25/53	  GET
- TheCrowKing	A+	1×	40/53	  GET
- Albert Ririe	B-	1×	13/53	  GET
- Morgan Caricchio	A+	1×	42/53	  GET
- Shadwe	A+	1×	38/53	  GET
- Rhymershouse	A+	1×	33/53	  GET
- Kathy Moon	A+	1×	36/53	  GET
- Caspar Parker	A+	1×	38/53	  GET
- Thatandyguy	A	1×	39/53	  GET
- Dazai Osamu	A+	1×	40/53	  GET
- Dan Springer	A+	1×	40/53	  GET
- jakemacneil	A+	1×	44/53	  GET
- Juan Leonardo	A+	1×	38/53	  GET
- Andy Sun	F	1×	33/53	  GET
- Luiz Wendt	A+	1×	39/53	  GET
- Tony Bolony	A+	1×	48/53	  GET
- Eric Lam	A+	1×	40/53	  GET
- Grgzhng	A-	1×	43/53	  GET
- Firdaus Isa	A+	1×	42/53	  GET
- MaKayla Hegger	A+	1×	14/53	  GET
- Alex Naomi	A-	1×	27/53	  GET
- Christian Mille Malinao	A+	1×	38/53	  GET
- Pangoling	A	1×	36/53	  GET
- Gage Brier	C-	1×	24/53	  GET
- Cheyenne Clark	A	1×	39/53	  GET
- Zlaster's Melancholy for the 70%	A+	1×	42/53	  GET
- Andrew Phillips	A+	1×	33/53	  GET
- Bram Verhagen	A+	1×	38/53	  GET
- Courtney	A+	1×	53/53	  GET
- Arch	A+	1×	44/53	  GET
- Glenlantern2814	A	1×	43/53	  GET
- Ethan Gomez-Roxas	A+	1×	40/53	  GET
- Phillypu	A+	1×	46/53	  GET
- Kado.perez	A+	1×	40/53	  GET
- Travis.k	A+	1×	38/53	  GET
- Brodie Bond	A+	1×	42/53	  GET
- lava hawk	A+	1×	39/53	  GET
- Rachael Mahaffey	A+	1×	39/53	  GET
- Patrick Hirsch	A+	1×	40/53	  GET
- Rebeldog	A+	1×	45/53	  GET
- Sean	A+	1×	10/53	  GET
- Sare Sai	A+	1×	17/53	  GET
- Mikhail Desales	A+	1×	28/53	  GET
- FauxPaw	A-	1×	21/53	  GET
- Joed3d4d6	C-	1×	30/53	  GET
- Scott Dyer	A+	1×	35/53	  GET
- Winged Lunacy	A-	1×	39/53	  GET
- Highdonut	B+	1×	22/53	  GET
- Laurenelizabeth	B+	1×	37/53	  GET
- Speedy	A+	1×	41/53	  GET
- Ray Cintron	B	1×	18/53	  GET
- Reallybored	A+	1×	42/53	  GET
- Schrodingers Box	A+	1×	42/53	  GET
- Kittiemiaou	A+	1×	43/53	  GET
- Jason R	A+	1×	35/53	  GET
- Archcaster23	A+	1×	30/53	  GET
- Kreyah	A	1×	39/53	  GET
- Jamie-Lee Turner	A+	1×	37/53	  GET
- Andreia Ferreira	A+	1×	49/53	  GET
- Veronica Suen	B+	1×	28/53	  GET
- Izzaro21	A+	1×	34/53	  GET
- Patrick Rosales	A+	1×	26/53	  GET
- River	A+	1×	51/53	  GET
- Snippid	A+	1×	45/53	  GET
- Shelly Gagnon	A+	1×	39/53	  GET
+ Joey Park	A+	2×	43/53	  GET
+ Jinxedcross	A+	2×	46/53	  GET
+ Nathan	B+	2×	50/53	  GET
+ de_sign00	A+	2×	45/53	  GET
+ Mcnabbi	A+	3×	47/53	  GET
+ Max Nachlinger	A+	2×	41/53	  GET
+ Valerie Dee	A+	2×	46/53	  GET
+ Sirindu	A+	2×	45/53	  GET
+ Virginia "Magnolia" Pratcher and the MissOldNeonmob Hallows	A+	3×	49/53	  GET
+ Dave Kaleta	A+	2×	43/53	  GET
+ Ipocalypse	A+	2×	48/53	  GET
+ Bogdan Trachev	A+	2×	51/53	  GET
+ hching	B+	2×	47/53	  GET
+ Da Ne	A+	3×	42/53	  GET
+ H2OMelon	A+	2×	44/53	  GET
+ Tony Bolony	A+	2×	53/53	  GET
+ Kiwistunz	A+	2×	47/53	  GET
+ Mouseblast	A+	2×	43/53	  GET
+ snakes snakes	B	2×	41/53	  GET
+ Gilian Orphan	B	2×	42/53	  GET
+ HardyHero	A	2×	47/53	  GET
+ Dixon Vew Lim	A	3×	47/53	  GET
+ Amemiyatayou	B	2×	39/53	  GET
+ Oliver Sparkes	A+	2×	49/53	  GET
+ Serveothers	A+	2×	46/53	  GET
+ Michael Rios	C	2×	53/53	  GET
+ Travguyt123	A+	2×	43/53	  GET
+ Paulo914	B+	2×	40/53	  GET
+ Victor Chiang	A+	3×	47/53	  GET
+ Matt	A+	2×	49/53	  GET
+ Darth Dali	A+	2×	48/53	  GET
+ Devout Faith	C	3×	50/53	  GET
+ EatmyWonderbao Yomyomyom	C	1×	21/53	  GET
+ Rachel Parker	A	1×	35/53	  GET
+ Lily Puffle	B	1×	7/53	  GET
+ Erik Derr	A+	1×	46/53	  GET
+ R K	C+	1×	41/53	  GET
+ Gavin Hood	A+	1×	6/53	  GET
  Buddy2539	A+	1×	37/53	  GET
- Pwzysk	A+	1×	17/53	  GET
- Helen Velich	A	1×	37/53	  GET
- Mschromatic	A+	1×	28/53	  GET
- Fran Shay	B+	1×	17/53	  GET
- RageMove GameOver-QC	A+	1×	41/53	  GET
- Mychal Keeley	A+	1×	19/53	  GET
- Jennifer Dean	A+	1×	42/53	  GET
- Ezylryb	A+	1×	46/53	  GET
- Diane	A+	1×	52/53	  GET
- Alexandru Ciuciulin	D+	1×	21/53	  GET
- Yomanasu	A-	1×	32/53	  GET
- Tomas Gumuliauskas	A+	1×	44/53	  GET
- Giacomo Maggi	A+	1×	44/53	  GET
- Kumi	A+	1×	44/53	  GET
- Leeshie	A+	1×	41/53	  GET
- Jack_storm_448	A+	1×	31/53	  GET
- Robert Gronewold	A+	1×	41/53	  GET
- Monique.ignacio551	A-	1×	33/53	  GET
- Brawndo	A+	1×	44/53	  GET
- Austin Romine	B+	1×	36/53	  GET
- Tibalt	A+	1×	39/53	  GET
- Michael Kaczmer	A+	1×	34/53	  GET
- Anastasia Rozynska	A+	1×	39/53	  GET
- James Goulart	A+	1×	39/53	  GET
- Johnthesilver	A+	1×	49/53	  GET
- Steph	C+	1×	27/53	  GET
- Thelovelykylie	A	1×	39/53	  GET
- Rachel Parker	A	1×	27/53	  GET
- dozy	A+	1×	43/53	  GET
- Pr0	A+	1×	43/53	  GET
- Alfred Rivera	A+	1×	44/53	  GET
- Loffel	A+	1×	40/53	  GET
- Androx06	D+	1×	8/53	  GET
- Jens Hviid	A+	1×	33/53	  GET
- Cassidy J. Alexander	A+	1×	39/53	  GET
- Kate Anderson	A	1×	37/53	  GET
- Krystal Dragon	C	1×	7/53	  GET
- Mkrusipro	A+	1×	34/53	  GET
- Sibil Hadzhytodorov	A+	1×	43/53	  GET
- Caitlin Weeks	A+	1×	30/53	  GET
- Robin Harris	B	1×	32/53	  GET
- Allahusnackbar	A+	1×	38/53	  GET
- Paül James Pionelo	A+	1×	21/53	  GET
- R K	B-	1×	32/53	  GET
- Heidi Utt	A+	1×	42/53	  GET
- Melissa Lawver	A+	1×	48/53	  GET
- Nathan.james.johnston	A+	1×	37/53	  GET
- Panlucasek	A	1×	44/53	  GET
- Sabina Storyteller	A	1×	34/53	  GET
- Carolyn Klassen	A+	1×	34/53	  GET
- Robin Jones	A+	1×	35/53	  GET
- Neonmobster_16177	A+	1×	37/53	  GET
- Rabrugger	A+	1×	40/53	  GET
- Ericka Smith	A+	1×	42/53	  GET
- Hana Cooper	A+	1×	46/53	  GET
- Blackaxon	D-	1×	11/53	  GET
- Brianna Flores	C+	1×	19/53	  GET
- HardyHero	A+	1×	42/53	  GET
- draconian Voltage	A+	1×	43/53	  GET
- Trisha Tan	A+	1×	46/53	  GET
- Samuel Scicluna	A+	1×	41/53	  GET
- Virgocls1982	B+	1×	23/53	  GET
- Zachary Nicoll	A+	1×	36/53	  GET
- Israel A. Candelario	A+	1×	39/53	  GET
- de_sign00	A+	1×	42/53	  GET
- Claudia Tinúviel	A+	1×	43/53	  GET
- Ashley Logan	A+	1×	45/53	  GET
- Papercut	A+	1×	50/53	  GET
- Jeremy Rupp	A	1×	22/53	  GET
- Ms. Marie Mac	A+	1×	41/53	  GET
- Victoria	A+	1×	38/53	  GET
- Joe Ruske	A+	1×	40/53	  GET
- Brad8992	A+	1×	24/53	  GET
- Roguedrummerboy	A	1×	41/53	  GET
- Nkeithart	A+	1×	42/53	  GET
- Mevalemadre95	D+	1×	7/53	  GET
- Ben Jenkinson	A+	1×	45/53	  GET
- Tzupy	A-	1×	36/53	  GET
- batiskafo	A+	1×	44/53	  GET
- Lapianoman	A+	1×	51/53	  GET
- Nick Arbeiter	A	1×	41/53	  GET
- Dinosaur Mermaid	A	1×	24/53	  GET
- Lindsey Mian	A+	1×	45/53	  GET
- Jordan	A+	1×	39/53	  GET
- Roches Guimarães	A+	1×	53/53	  GET
- Kaosknight	A+	1×	37/53	  GET
- Nico Hart	A+	1×	45/53	  GET
- Aza	A+	1×	25/53	  GET
- Arkvenium	A	1×	48/53	  GET
- Alexander Elliott	A+	1×	36/53	  GET
- Lucifiere	A	1×	33/53	  GET
- Lawlessfighter	D-	1×	35/53	  GET
- Cthulhu	A+	1×	44/53	  GET
- Naranda	A+	1×	43/53	  GET
- Winnie Lao	A+	1×	44/53	  GET
- Lonk	B	1×	10/53	  GET
- Shena Wood	A	1×	6/53	  GET
- Nick Sabre	A+	1×	53/53	  GET
- Iven Sims	B	1×	17/53	  GET
- David Smith	A+	1×	41/53	  GET
- Neonmobster_17039	A+	1×	18/53	  GET
- Лев Якушев	A+	1×	40/53	  GET
- Lean Robledo	A	1×	45/53	  GET
- Toritundra	A+	1×	46/53	  GET
- Heroicspiritemiya9029	B	1×	43/53	  GET
- Honeyfox	B+	1×	26/53	  GET
- Emory Cash	B	1×	26/53	  GET
- Hif Haf	A+	1×	9/53	  GET
- NordicTurtle	A+	1×	47/53	  GET
- Mary Boulerice	A+	1×	37/53	  GET
- Dads Eguia	B	1×	32/53	  GET
- Tere	A+	1×	31/53	  GET
- joe sheire	B	1×	34/53	  GET
- Edward	B+	1×	44/53	  GET
- Maysterchief	B-	1×	27/53	  GET
- Annelise Knoot	A+	1×	39/53	  GET
- Avery H	A+	1×	40/53	  GET
- Matthew Tso	A+	1×	27/53	  GET
- Kamsvagmilosz	A+	1×	38/53	  GET
- Brokenpanda	A+	1×	46/53	  GET
- Ashley Herin	A+	1×	45/53	  GET
- Soulless Kitsune	A+	1×	41/53	  GET
- Austin_Loughrey	C	1×	6/53	  GET
- John Villarose VI	A+	1×	41/53	  GET
- Megan wants the old NeonMob back	A+	1×	46/53	  GET
- Dominic Flask	A+	1×	53/53	  GET
- Rosalyn	C+	1×	34/53	  GET
- Red Dragonfly	A+	1×	41/53	  GET
- Travguyt123	A+	1×	39/53	  GET
- David Tapia	C	1×	44/53	  GET
- Zarinbarkhoff	B+	1×	19/53	  GET
- Nathan Tapia	A	1×	32/53	  GET
- Apocalypse	A+	1×	39/53	  GET
- Serveothers	A+	1×	43/53	  GET
- Terence Petit	A-	1×	43/53	  GET
- Cheryl	A	1×	42/53	  GET
- Brokenname	A+	1×	43/53	  GET
- Zekko Takoroka	C+	1×	4/53	  GET
- Brodinand Bronandez	A+	1×	17/53	  GET
- Neil Campbell	A+	1×	34/53	  GET
- Chreagrain	D	1×	8/53	  GET
- Fryingpansam93	A+	1×	40/53	  GET
- David Poulton	A+	1×	48/53	  GET
- Esmeralda	A+	1×	30/53	  GET
- Marcoman2001	A+	1×	42/53	  GET
- Xavion	A+	1×	43/53	  GET
- Neonmobster_19686	B	1×	2/53	  GET
- Vondarkmoor	A+	1×	37/53	  GET
- Jose.cardenas	A-	1×	44/53	  GET
- Cosmicconvict	A-	1×	34/53	  GET
- Lucario	A	1×	38/53	  GET
- Patricia Sung	A+	1×	42/53	  GET
- Kevin Plumley	A	1×	41/53	  GET
- Adrian F	A+	1×	37/53	  GET
- Alkimim M. P. C.	A+	1×	42/53	  GET
- Byron Lim	A+	1×	41/53	  GET
- Ron Martin	A+	1×	42/53	  GET
- Ryan Sz	A+	1×	44/53	  GET
- Caleb Holmes	A+	1×	40/53	  GET
+ Mikuruchu	A+	1×	42/53	  GET
+ Zlaster's Melancholy for the 70%	A+	1×	43/53	  GET
+ Robin Bray	A+	1×	53/53	  GET
+ Taimaniac	A-	1×	47/53	  GET
+ Marcos Anguiano	A+	1×	44/53	  GET
+ Dtherealk	B+	1×	33/53	  GET
+ Carine Belzon	A+	1×	44/53	  GET
+ Genrel_id	A+	1×	46/53	  GET
+ Catpixels	A+	1×	47/53	  GET
+ mira	A	1×	26/53	  GET
+ George Saggeth Jr.	A+	1×	49/53	  GET
+ Narby	A+	1×	53/53	  GET
  Crass	A	1×	44/53	  GET
- DeltaPeng	A+	1×	18/53	  GET
- Tjdisco	A+	1×	38/53	  GET
- M4600	A+	1×	28/53	  GET
- Tanna	A+	1×	19/53	  GET
- Shade20xx	A+	1×	53/53	  GET
- Gavin Hood	B+	1×	6/53	  GET
- Toapenguin	A+	1×	46/53	  GET
- Luis Ruiz	A+	1×	39/53	  GET
- Jenn	A+	1×	42/53	  GET
- Lizilya	A+	1×	44/53	  GET
- Davidhj.net	A+	1×	39/53	  GET
- Joshua	A+	1×	38/53	  GET
- Adam McFall	A+	1×	38/53	  GET
- EatmyWonderbao Yomyomyom	B	1×	21/53	  GET
- Syn Night	A+	1×	37/53	  GET
- Veronica Bohrer	A+	1×	30/53	  GET
- Igor Henckes	A	1×	40/53	  GET
- Kelley Hix	A+	1×	43/53	  GET
- Lolo Le Treize	A+	1×	40/53	  GET
- Gabbie Waffer Wants The Old Neonmob Back	A+	1×	28/53	  GET
- Jesse White	B+	1×	15/53	  GET
- Jake Obnial	A+	1×	32/53	  GET
- Caroline Williams	C+	1×	31/53	  GET
- Max Dusman	A+	1×	42/53	  GET
- Mrminimii	A	1×	39/53	  GET
- Julianna Veneris	A+	1×	11/53	  GET
- Yicedawn	A+	1×	45/53	  GET
- Xorj StAnthony	A+	1×	41/53	  GET
- Hareion	A+	1×	32/53	  GET
- Nevriks	C	1×	13/53	  GET
- Gavin Ferguson	A	1×	43/53	  GET
- RedLevi	A	1×	38/53	  GET
- Joseph	A+	1×	34/53	  GET
- Ghostshock	D+	1×	16/53	  GET
- 99thking	A+	1×	28/53	  GET
- The Geeky Corner	A+	1×	18/53	  GET
- David Selinger	A+	1×	34/53	  GET
- Anthony Grenier	B-	1×	10/53	  GET
- April Gillespie	B	1×	6/53	  GET
- Diana805	A+	1×	37/53	  GET
- Darth Dali	A+	1×	45/53	  GET
+ Esmeralda	A+	1×	36/53	  GET
+ Serenity Lee	A+	1×	48/53	  GET
+ Ty Cronin	A+	1×	44/53	  GET
+ Akeli	B+	1×	35/53	  GET
+ Alfonso Díaz	A+	1×	40/53	  GET
+ Zoanthia	A+	1×	46/53	  GET
+ Courtney	A+	1×	53/53	  GET
+ Sally Tseng	A+	1×	42/53	  GET
+ Maffer Hernández	A+	1×	46/53	  GET
+ Youssef Hachhouch	A+	1×	43/53	  GET
+ KeithB	A+	1×	47/53	  GET
+ Vincent Di Salvo	A+	1×	26/53	  GET
+ Panlucasek	A+	1×	48/53	  GET
+ Jake Moore	B	1×	30/53	  GET
+ Sabina Storyteller	A-	1×	34/53	  GET
+ Michael Plourde	A+	1×	52/53	  GET
+ Lawrence0721	A+	1×	40/53	  GET
+ Jaes Overley	A+	1×	43/53	  GET
+ Ezylryb	A	1×	41/53	  GET
+ Eldagast	A+	1×	46/53	  GET
+ Gabbie Waffer Wants The Old Neonmob Back	A+	1×	41/53	  GET
+ Ritz Altairis	A+	1×	37/53	  GET
+ Jeddediah	A+	1×	41/53	  GET
+ M.C. McLamb	A+	1×	41/53	  GET
+ Samuel Scicluna	A	1×	44/53	  GET
+ Shena Wood	A	1×	6/53	  GET
+ Neonmobster_17779	A	1×	36/53	  GET
+ Reallybored	A+	1×	46/53	  GET
+ Julianna Veneris	A	1×	16/53	  GET
+ Yardenbh	A+	1×	45/53	  GET
+ Julie	A+	1×	49/53	  GET
+ Gregu	A+	1×	39/53	  GET
+ Jedi_Brutus	A	1×	40/53	  GET
+ Austin Romine	B+	1×	36/53	  GET
+ Shadwe	A+	1×	42/53	  GET
+ niartyzarC	A+	1×	45/53	  GET
+ Painlesspig	A+	1×	34/53	  GET
+ Energywolf	A+	1×	43/53	  GET
+ Aubrey H	A+	1×	43/53	  GET
+ Yellowandcake	C+	1×	37/53	  GET
+ Pequisa	A+	1×	53/53	  GET
+ Leon Yonzon	A+	1×	40/53	  GET
+ Teddy Pendergast	A+	1×	44/53	  GET
+ Rokrevthin	A+	1×	46/53	  GET
+ Shandee+Christopher Nis	A+	1×	40/53	  GET
+ James Walz	A-	1×	38/53	  GET
+ Blackaxon	F+	1×	11/53	  GET
+ Matthias Bramfitt	A+	1×	41/53	  GET
+ David Stroble	A+	1×	38/53	  GET
+ Ronny H	D+	1×	6/53	  GET
+ Trisha Tan	A-	1×	46/53	  GET
+ Ashtec	A+	1×	45/53	  GET
+ James Spindor	A+	1×	43/53	  GET
+ Rachel Andrews	A+	1×	28/53	  GET
+ Cheszali Erestain	A+	1×	46/53	  GET
+ Lawlessfighter	D-	1×	35/53	  GET
+ David Poulton	A+	1×	53/53	  GET
+ Cosmicconvict	B	1×	34/53	  GET
+ Cheyenne Clark	A+	1×	40/53	  GET
+ Caleb Dodd	C	1×	16/53	  GET
+ April Gillespie	B+	1×	6/53	  GET
+ DucAnh Le	A+	1×	40/53	  GET
+ Nico Hart	A+	1×	45/53	  GET
+ Tg Error	A+	1×	43/53	  GET
+ Lucamber0821	A+	1×	40/53	  GET
+ Sev7n	F	1×	22/53	  GET
+ Alberto Bernard	A+	1×	50/53	  GET
+ 13udha	A+	1×	40/53	  GET
+ Brokenname	A+	1×	45/53	  GET
+ CMW	A+	1×	43/53	  GET
+ Elijah Huff	A+	1×	50/53	  GET
+ husahusa	A+	1×	42/53	  GET
+ Emily Strasser	A+	1×	44/53	  GET
+ Toritundra	A+	1×	49/53	  GET
+ Doowutchyalike	A+	1×	41/53	  GET
+ Thelovelykylie	A+	1×	41/53	  GET
+ RedCrow	A+	1×	45/53	  GET
+ Mangareaderrad	A-	1×	43/53	  GET
+ Accursedfoursword	A	1×	30/53	  GET
+ Weilin Liao	A+	1×	44/53	  GET
+ Albert Ririe	C+	1×	13/53	  GET
+ Thehave	C+	1×	29/53	  GET
+ Andreia Ferreira	A+	1×	53/53	  GET
+ Loahnuh	A+	1×	40/53	  GET
+ Definitely The All-Father	B-	1×	41/53	  GET
+ Meeralk	F+	1×	27/53	  GET
+ Xorj StAnthony	A+	1×	44/53	  GET
+ Sibil Hadzhytodorov	A+	1×	45/53	  GET
+ Cthulhu	A+	1×	44/53	  GET
+ NordicTurtle	A+	1×	50/53	  GET
+ Arlain	A+	1×	41/53	  GET
+ Paül James Pionelo	A+	1×	31/53	  GET
+ Linus Lundahl	A+	1×	33/53	  GET
+ Raeverie	A+	1×	50/53	  GET
+ Lapianoman	A+	1×	52/53	  GET
+ Zone	C	1×	7/53	  GET
+ Jamie-Lee Turner	A+	1×	38/53	  GET
+ Iflipthecookie	B-	1×	43/53	  GET
+ Scarablabs	A+	1×	23/53	  GET
+ Heidi Utt	A+	1×	44/53	  GET
+ Kaiyo	A+	1×	41/53	  GET
+ Andrewter	A+	1×	51/53	  GET
+ Brodinand Bronandez	A-	1×	17/53	  GET
+ Wax_packs	A+	1×	49/53	  GET
+ Bluebanana	A+	1×	41/53	  GET
+ Firstiand Chaniago	A+	1×	41/53	  GET
+ Hrischan	C-	1×	25/53	  GET
+ Rbykarate	A+	1×	7/53	  GET
+ Kado.perez	A+	1×	45/53	  GET
+ Laura	A+	1×	50/53	  GET
+ Rachel	A+	1×	45/53	  GET
+ Jawbone999	A+	1×	43/53	  GET
+ Nathan Tapia	A	1×	32/53	  GET
+ David Casey	A+	1×	35/53	  GET
+ Michael H	A+	1×	38/53	  GET
+ Vaschmir	A+	1×	50/53	  GET
+ Dave Wilhelm	A+	1×	49/53	  GET
+ Andrew Johnson	A+	1×	41/53	  GET
+ John Villarose VI	A+	1×	48/53	  GET
+ Ryan Warbington	C+	1×	27/53	  GET
+ Hayley Pearson	A+	1×	39/53	  GET
+ Piclesboy	A+	1×	46/53	  GET
+ Grgzhng	B-	1×	43/53	  GET
+ Vlad Gabriel	A	1×	5/53	  GET
+ Angel B	A+	1×	46/53	  GET
+ Neonmobster_14644 Fiorella	A+	1×	31/53	  GET
+ Zekko Takoroka	C+	1×	4/53	  GET
+ Sean Burdick	A	1×	45/53	  GET
+ Fiercefox52	B+	1×	22/53	  GET
+ Adrian Wagner	A+	1×	44/53	  GET
+ Shyyyvee	A+	1×	42/53	  GET
+ Nicholas Thompson	A+	1×	40/53	  GET
+ No.42	A+	1×	47/53	  GET
+ Jim Todd	A+	1×	52/53	  GET
+ Laurenelizabeth	B-	1×	37/53	  GET
+ Veronica Suen	B+	1×	28/53	  GET
+ Gustavo Hernandez	B-	1×	28/53	  GET
+ Scott Hajek	A+	1×	45/53	  GET
+ Quintin Hartman	A+	1×	41/53	  GET
+ Ron Martin	A+	1×	42/53	  GET
+ Aleks Palichev	B+	1×	37/53	  GET
+ Bubbie	B+	1×	36/53	  GET
+ Irishgirloriginal	A-	1×	42/53	  GET
+ Hewer Situ	A+	1×	38/53	  GET
+ Kelley Hix	A+	1×	45/53	  GET
+ Eli French	B+	1×	43/53	  GET
+ Jennifer Shtefan	A+	1×	48/53	  GET
+ Stephany Senpai	B	1×	33/53	  GET
+ Michael Kaczmer	A+	1×	36/53	  GET
+ Caesar Nascimento	A+	1×	45/53	  GET
+ John Paul George Eguia	B+	1×	40/53	  GET
+ Cheryl	A+	1×	44/53	  GET
+ Allen Geneta	A+	1×	44/53	  GET
+ lava hawk	A+	1×	44/53	  GET
+ Eleni Panayiotou	A+	1×	50/53	  GET
+ Itatly	A+	1×	42/53	  GET
+ Daniel Sigal	A+	1×	46/53	  GET
+ Ashley Logan	A+	1×	47/53	  GET
+ David.htc.leaco	A+	1×	37/53	  GET
+ Nikki Nonya Beeswax	A	1×	30/53	  GET
+ Travis.k	A+	1×	38/53	  GET
+ pronto_pup	A+	1×	40/53	  GET
+ Iven Sims	B+	1×	23/53	  GET
+ Joshua	A+	1×	41/53	  GET
+ Yury Korostelev	A+	1×	16/53	  GET
+ Doro Tea	A+	1×	39/53	  GET
+ Shelly Gagnon	A+	1×	40/53	  GET
+ Mike Elder	D+	1×	7/53	  GET
+ Naranda	B+	1×	48/53	  GET
+ Sare Sai	A+	1×	18/53	  GET
+ Kilian	A+	1×	53/53	  GET
+ RageMove GameOver-QC	A+	1×	41/53	  GET
+ David Smith	A+	1×	46/53	  GET
+ Max Dusman	A+	1×	44/53	  GET
+ Pedro.kutsmi	A+	1×	40/53	  GET
  wyndham anderson	A+	1×	32/53	  GET
- Kholek99	A+	1×	21/53	  GET
- Shadowslayer900	C+	1×	24/53	  GET
- Mats Leckie	A+	1×	31/53	  GET
- Dan Moyer	A+	1×	45/53	  GET
+ Giacomo Maggi	A+	1×	48/53	  GET
+ Nickthemaster13	B-	1×	31/53	  GET
+ Rian Perez	A+	1×	37/53	  GET
+ Igor Henckes	A+	1×	46/53	  GET
+ Mschromatic	A+	1×	28/53	  GET
+ Kise77	B+	1×	34/53	  GET
+ Hiddenstorms	C+	1×	37/53	  GET
+ Gameologist	A+	1×	26/53	  GET
+ Smogthebear	A+	1×	41/53	  GET
+ Zelfore	A+	1×	49/53	  GET
+ Rhythmicadditions	D	1×	32/53	  GET
+ CoolVibranium	A+	1×	44/53	  GET
+ Lindsey Mian	A+	1×	45/53	  GET
+ DemonsWrath	A+	1×	42/53	  GET
+ Luiz Wendt	A	1×	39/53	  GET
+ Snippid	A+	1×	48/53	  GET
+ Immissjc	B-	1×	26/53	  GET
+ Brianna Schlager	A+	1×	36/53	  GET
+ Dads Eguia	B-	1×	32/53	  GET
+ Charles Hurtt	A	1×	38/53	  GET
+ Nicolas Fimbres	B-	1×	39/53	  GET
+ Katie Knudson	B+	1×	43/53	  GET
+ Tijana Jevtic	A+	1×	43/53	  GET
+ Mrshuff	A+	1×	47/53	  GET
+ Rica Azmaria	A+	1×	40/53	  GET
+ Shannon Dehne	A+	1×	39/53	  GET
+ Howard Atlas	A+	1×	9/53	  GET
+ Andrew Starks	A+	1×	43/53	  GET
+ Grace Ann Buenaventura	A	1×	44/53	  GET
+ Animeshark	A+	1×	43/53	  GET
+ Panda	B	1×	12/53	  GET
+ Sean	A+	1×	13/53	  GET
+ Peyton934913	A+	1×	44/53	  GET
+ draconian Voltage	A+	1×	43/53	  GET
+ Kat	A	1×	45/53	  GET
+ Dennis Perlstein	A+	1×	45/53	  GET
+ Duncan Oliver	A+	1×	2/53	  GET
+ Andrea Sánchez	A-	1×	40/53	  GET
+ Ben Crocker	A	1×	49/53	  GET
+ James	A+	1×	44/53	  GET
+ Chuck Bohatka	A+	1×	45/53	  GET
+ Hendrik Lian	B-	1×	38/53	  GET
+ Lizilya	A+	1×	46/53	  GET
+ Matthew Schneider	A+	1×	42/53	  GET
+ Renegade Fruitloop	A+	1×	26/53	  GET
+ Ridonkulous	A+	1×	44/53	  GET
+ Heather Wisham	A+	1×	48/53	  GET
+ Steve Gomez	A+	1×	49/53	  GET
+ Ericka Smith	A+	1×	44/53	  GET
+ Joseph	A+	1×	35/53	  GET
+ Marcio Marques Soares	A+	1×	47/53	  GET
+ Jesse White	B+	1×	15/53	  GET
+ Sang Nguyen	B	1×	28/53	  GET
+ Witchwater	A+	1×	43/53	  GET
+ Lianett Ruiz	D	1×	32/53	  GET
+ Matchbox04ph	A+	1×	38/53	  GET
+ Sammson	B+	1×	20/53	  GET
+ Ray Lonsdale	A+	1×	46/53	  GET
+ Raven	A+	1×	46/53	  GET
+ Llminx	A+	1×	38/53	  GET
+ Shawna Aponte	A+	1×	40/53	  GET
+ Andres133	B-	1×	31/53	  GET
+ James Goulart	A+	1×	39/53	  GET
+ Matthew Tso	A+	1×	28/53	  GET
+ Winged Lunacy	B+	1×	39/53	  GET
+ r00t	A+	1×	46/53	  GET
+ Aquavire	D	1×	32/53	  GET
+ Theresa Story	A+	1×	40/53	  GET
+ Zanrin	A+	1×	41/53	  GET
+ Rosalyn	C-	1×	34/53	  GET
+ Pwzysk	A+	1×	36/53	  GET
+ Highdonut	B	1×	22/53	  GET
+ Tanksoul	B	1×	49/53	  GET
+ Digisarz	B	1×	25/53	  GET
+ Robin Harris	B	1×	32/53	  GET
+ Antialex	A+	1×	44/53	  GET
+ Krystal Dragon	C	1×	7/53	  GET
+ Cassidy J. Alexander	A-	1×	41/53	  GET
+ Winson	B-	1×	32/53	  GET
+ Brokenpanda	A+	1×	46/53	  GET
+ Prenticemononoke	A+	1×	46/53	  GET
+ Nkeithart	A+	1×	44/53	  GET
+ dozy	A+	1×	48/53	  GET
+ Thor Andre Hammer Olsen	A+	1×	39/53	  GET
+ Dinosaur Mermaid	A	1×	24/53	  GET
+ Marcoman2001	A+	1×	43/53	  GET
+ Dave Lee	A-	1×	45/53	  GET
+ Alvasaur {PM FOR TRADE}	B+	1×	28/53	  GET
+ David Florin	D+	1×	15/53	  GET
+ William La Grue	A+	1×	42/53	  GET
+ David Tapia	D+	1×	44/53	  GET
+ Mirianrose15	A+	1×	45/53	  GET
+ Rebeldog	A+	1×	45/53	  GET
+ Nicki Hoffman	A+	1×	45/53	  GET
+ Brawndo	A+	1×	47/53	  GET
+ Neonmobster_19859	A+	1×	27/53	  GET
+ Imperator Furiosa	D	1×	22/53	  GET
+ Patrick Hirsch	A+	1×	45/53	  GET
+ Dean Robinson	A+	1×	38/53	  GET
+ Kuma	B+	1×	19/53	  GET
+ Sevilyra	A	1×	44/53	  GET
+ Rachael Mahaffey	A+	1×	42/53	  GET
+ Janetvonmurder	A+	1×	40/53	  GET
+ Herman Yang	A+	1×	43/53	  GET
+ Chewbacca68	A+	1×	45/53	  GET
+ Neil Campbell	A+	1×	34/53	  GET
+ Juan Leonardo	A+	1×	38/53	  GET
+ Spyke	A+	1×	48/53	  GET
+ Lonk	B	1×	10/53	  GET
+ Number Six	A+	1×	40/53	  GET
+ Androx06	C-	1×	32/53	  GET
+ Glenn Martin	C-	1×	40/53	  GET
+ Brian Tate	A+	1×	35/53	  GET
+ tteokbokki	A+	1×	47/53	  GET
+ Danilo	C+	1×	39/53	  GET
+ Eric Lam	A+	1×	45/53	  GET
+ Archcaster23	A+	1×	32/53	  GET
+ Mike Stickel	A+	1×	46/53	  GET
+ Luc White	A+	1×	47/53	  GET
+ Jeroen Gadellaa	A+	1×	49/53	  GET
+ Jtthellama	A+	1×	44/53	  GET
+ Toapenguin	A+	1×	48/53	  GET
+ TheMay0r	B-	1×	39/53	  GET
+ Zizimaro	A+	1×	48/53	  GET
+ Glenlantern2814	A+	1×	43/53	  GET
+ ziel klynx	A	1×	41/53	  GET
+ Neonmobster_19637	B+	1×	26/53	  GET
+ SuicidalxBullet	A+	1×	43/53	  GET
+ Lily Sosa	C-	1×	16/53	  GET
+ Michael Mosher	A+	1×	44/53	  GET
+ Spaghetti Spaghetti	A+	1×	50/53	  GET
+ Red Dragonfly	A+	1×	44/53	  GET
+ Jennifer	A+	1×	43/53	  GET
+ Luis Ruiz	A+	1×	45/53	  GET
+ Estelien	B-	1×	35/53	  GET
+ Neonmobster_16177	A+	1×	38/53	  GET
+ Gina	A+	1×	43/53	  GET
+ Bonnie Melton	F+	1×	36/53	  GET
+ Jason Rawls	A+	1×	53/53	  GET
+ Patricia Sung	A+	1×	43/53	  GET
+ David Sepel	A+	1×	46/53	  GET
+ EmVee	A+	1×	46/53	  GET
+ Hareion	A+	1×	34/53	  GET
+ Izzaro21	A+	1×	34/53	  GET
+ Jan Co	B+	1×	38/53	  GET
+ Neonmobster_978	A	1×	44/53	  GET
+ Brandon Hyman	A+	1×	34/53	  GET
+ Arch	A+	1×	44/53	  GET
+ Yavonn Smart	A+	1×	39/53	  GET
+ Lamaen Monkton	A+	1×	41/53	  GET
+ Kamsvagmilosz	A-	1×	41/53	  GET
+ Lolo Le Treize	A+	1×	44/53	  GET
+ Rhymershouse	A+	1×	35/53	  GET
+ Diana805	A+	1×	38/53	  GET
+ Alkimim M. P. C.	A+	1×	45/53	  GET
+ Daniel Tang	B+	1×	34/53	  GET
+ Ruemoon	A-	1×	46/53	  GET
+ Tara Von 6	A+	1×	44/53	  GET
+ John Nero Solace Foulds J.U.B.	A+	1×	52/53	  GET
+ Malik Wade	A	1×	44/53	  GET
+ Veronica Bohrer	A+	1×	35/53	  GET
+ Dan Moyer	A+	1×	46/53	  GET
+ Ben Young	D+	1×	2/53	  GET
+ Mack Caddy	A+	1×	46/53	  GET
+ Angie	D+	1×	39/53	  GET
+ Jarrett Rhodes	A+	1×	37/53	  GET
+ Marelle	A+	1×	45/53	  GET
+ Alex V	A+	1×	41/53	  GET
+ Marcio Barrios	A+	1×	47/53	  GET
+ Alfred Rivera	A+	1×	49/53	  GET
+ Cinna Lawless	A	1×	45/53	  GET
+ Sara Ang	A+	1×	40/53	  GET
+ Zarinbarkhoff	C+	1×	19/53	  GET
+ EatmyWonderbao Yomyomyom	C	1×	21/53	  GET
+ Morsmihi	A+	1×	35/53	  GET
+ R	A+	1×	2/53	  GET
+ River	A+	1×	52/53	  GET
+ Hungryman	A+	1×	45/53	  GET
+ All_the_freaks	A+	1×	42/53	  GET
+ Alberto López	A-	1×	36/53	  GET
+ Sirhagrid	A+	1×	48/53	  GET
+ Eva Jay	B	1×	16/53	  GET
+ Enchant04	A+	1×	44/53	  GET
+ Ashley Brim	A+	1×	44/53	  GET
+ Winnie Lao	A+	1×	46/53	  GET
+ Benhowarth531	A+	1×	45/53	  GET
+ William Wisher	A+	1×	34/53	  GET
+ Kholek99	A+	1×	22/53	  GET
+ Alex Naomi	A-	1×	28/53	  GET
+ Intotheforests	A+	1×	28/53	  GET
+ Mary Boulerice	A+	1×	39/53	  GET
+ Speedygirl	A	1×	35/53	  GET
+ Sltheringirl92	A+	1×	39/53	  GET
+ Phillypu	A+	1×	48/53	  GET
+ Neonmobster_19384	A+	1×	41/53	  GET
+ Drkjedeyes	A+	1×	35/53	  GET
+ Rulerofthepotatoes	A+	1×	42/53	  GET
+ Qazyn	A+	1×	50/53	  GET
+ Alikys	A+	1×	50/53	  GET
+ joe sheire	B+	1×	35/53	  GET
+ Circuskidg	A+	1×	47/53	  GET
+ Garfield	B+	1×	23/53	  GET
+ Kali Nelson	A+	1×	35/53	  GET
+ Winson Goh	A+	1×	44/53	  GET
+ Lucario	A+	1×	38/53	  GET
+ TheCrowKing	A+	1×	40/53	  GET
+ PK Amnuay	A+	1×	49/53	  GET
+ Selena Pigeon	D	1×	18/53	  GET
+ S K	A	1×	31/53	  GET
+ Tjdisco	A+	1×	41/53	  GET
+ Firdaus Isa	A+	1×	46/53	  GET
+ Sifort2012	A-	1×	22/53	  GET
+ Mr E	A+	1×	42/53	  GET
+ Sombrus666	A+	1×	41/53	  GET
+ Niklas Berg	A+	1×	42/53	  GET
+ Kimmy Boo	A+	1×	32/53	  GET
+ Лев Якушев	A+	1×	42/53	  GET
+ Juanita Bonvillain	A+	1×	39/53	  GET
+ Pr0	A+	1×	47/53	  GET
+ Avery H	A+	1×	45/53	  GET
+ Delesa Lc	A+	1×	34/53	  GET
+ Kittiemiaou	A+	1×	48/53	  GET
+ Soulless Kitsune	A+	1×	42/53	  GET
+ Ren Son	A+	1×	40/53	  GET
+ Jake Obnial	A+	1×	38/53	  GET
+ Gabatz613	A+	1×	11/53	  GET
+ Aza	A+	1×	33/53	  GET
+ Scoutboy	A+	1×	42/53	  GET
+ Ivana Yang	A+	1×	44/53	  GET
+ Thatandyguy	B	1×	39/53	  GET
+ EpiCLicTra	A+	1×	47/53	  GET
+ Thomas Ramos	B+	1×	40/53	  GET
+ Jvmagicman	A-	1×	34/53	  GET
+ Casa Ice	A+	1×	34/53	  GET
+ Nayrz	A+	1×	39/53	  GET
+ Morgan Caricchio	A+	1×	43/53	  GET
+ Layton	A+	1×	46/53	  GET
+ Jason R	A+	1×	36/53	  GET
+ Hazel Chong	A+	1×	23/53	  GET
+ Waldo Cervantes	A+	1×	40/53	  GET
+ Hannah Bridgeman	A+	1×	22/53	  GET
+ Velocity	C	1×	6/53	  GET
+ Josh Stevers	A+	1×	44/53	  GET
+ Reaver	A+	1×	50/53	  GET
+ Michael Wallace	A+	1×	50/53	  GET
+ Miffles Stubbypaws	A	1×	45/53	  GET
+ Maria Stacy	A+	1×	44/53	  GET
+ Niki	A+	1×	44/53	  GET
+ Angela Sabetto	A+	1×	38/53	  GET
+ batiskafo	A+	1×	47/53	  GET
+ Austin Sixx	C+	1×	6/53	  GET
+ M. Keyes	A+	1×	42/53	  GET
+ 99thking	A+	1×	39/53	  GET
+ Ray Ross	A+	1×	43/53	  GET
+ Claudia Tinúviel	A+	1×	47/53	  GET
+ Zander Gollogly	B+	1×	42/53	  GET
+ Craven Eudy	A+	1×	38/53	  GET
+ Joed3d4d6	C-	1×	30/53	  GET
+ Celina Gr	A+	1×	44/53	  GET
+ DeltaPeng	A+	1×	18/53	  GET
+ Chris Carey	B+	1×	44/53	  GET
+ Ivy Liang	A+	1×	45/53	  GET
+ ERayque	A+	1×	45/53	  GET
+ Prt917	C+	1×	36/53	  GET
+ Adropofbeauty	A	1×	42/53	  GET
+ Ezra	A+	1×	49/53	  GET
+ Caramel Toffee	A+	1×	44/53	  GET
+ Neonmobster_19102	A+	1×	46/53	  GET
+ Chymeron	A+	1×	44/53	  GET
+ Caitlin L.	A+	1×	44/53	  GET
+ Moonkitvelvet	A+	1×	53/53	  GET
+ Brains	B+	1×	42/53	  GET
+ Zack	A+	1×	23/53	  GET
+ Roukan	A-	1×	26/53	  GET
+ Steph	C+	1×	27/53	  GET
+ Jeremy	A+	1×	22/53	  GET
+ The Geeky Corner	A+	1×	34/53	  GET
+ Lucas Tetrault	A+	1×	46/53	  GET
+ Ben Jenkinson	A+	1×	46/53	  GET
+ Jakub Hill	A-	1×	42/53	  GET
+ Kevondrec	B	1×	29/53	  GET
+ Cesare Brighenti	A+	1×	44/53	  GET
+ Nytunia	A+	1×	45/53	  GET
+ Chasson Skervin	A+	1×	39/53	  GET
+ Sarah Damitz	A	1×	30/53	  GET
+ Shade20xx	A+	1×	53/53	  GET
+ Edward	B+	1×	44/53	  GET
+ Neonmobster_19515	A+	1×	45/53	  GET
+ Javisa	A+	1×	41/53	  GET
+ Jean-Philippe Doré	A+	1×	45/53	  GET
+ Rei_zer0	A	1×	31/53	  GET
+ Neonmobster_9817	A	1×	37/53	  GET
+ DaEpikGuy	A	1×	45/53	  GET
+ Kristian Zranchev	A+	1×	43/53	  GET
+ Tzel	A	1×	38/53	  GET
+ Dpklingler	A+	1×	42/53	  GET
+ Cleanblade	A+	1×	45/53	  GET
+ Lucie Rose	A+	1×	42/53	  GET
+ Tere	A+	1×	36/53	  GET
+ Tami CM	A+	1×	43/53	  GET
+ Ncl.nicoara	A+	1×	45/53	  GET
+ Butterpig	F	1×	10/53	  GET
+ Marc Antoine	A+	1×	50/53	  GET
+ M4600	A+	1×	31/53	  GET
+ Neonmobster_19518	C	1×	36/53	  GET
+ Pedro Castella	A	1×	40/53	  GET
+ Megan wants the old NeonMob back	A+	1×	46/53	  GET
+ Aware	A	1×	38/53	  GET
+ Golden Fish Entertainment	A+	1×	39/53	  GET
+ MauMau Mau	A+	1×	34/53	  GET
+ Honeyfox	A	1×	42/53	  GET
+ Nathy Loussop	A+	1×	40/53	  GET
+ Sockin	C+	1×	42/53	  GET
+ Joey Valko	A+	1×	52/53	  GET
+ Akurachi	A	1×	29/53	  GET
+ Mikhail Desales	A	1×	28/53	  GET
+ Rabrugger	A+	1×	41/53	  GET
+ Fryingpansam93	A+	1×	42/53	  GET
+ M	A+	1×	40/53	  GET
+ Shelly Martinez	A+	1×	49/53	  GET
+ Cee Cee	B+	1×	25/53	  GET
+ Lean Robledo	A+	1×	50/53	  GET
+ Kate Anderson	A	1×	37/53	  GET
+ Tomas Gumuliauskas	A	1×	47/53	  GET
+ Tanner Johnson	A+	1×	39/53	  GET
+ Hana Cooper	A+	1×	48/53	  GET
+ Quan Nguyen	B+	1×	37/53	  GET
+ Robby Miller	A+	1×	40/53	  GET
+ Andrew Phillips	A+	1×	35/53	  GET
+ Johannah Navallo	A+	1×	41/53	  GET
+ Jeremy Rupp	A	1×	22/53	  GET
+ Roches Guimarães	A+	1×	53/53	  GET
+ Hif Haf	A+	1×	9/53	  GET
+ galliard von Sillein	A+	1×	47/53	  GET
+ HarbingerOne	A+	1×	43/53	  GET
+ Cory Ruda	A+	1×	52/53	  GET
+ LoudNoise	A+	1×	42/53	  GET
+ Nikolas0	A+	1×	39/53	  GET
+ Lgregor	A+	1×	45/53	  GET
+ Sam M	A+	1×	33/53	  GET
+ Dragonite	A	1×	39/53	  GET
+ Sabra Jones	A+	1×	26/53	  GET
+ Mkrusipro	A+	1×	41/53	  GET
+ Storyteller	B	1×	38/53	  GET
+ IsRick	A+	1×	28/53	  GET
+ Glenn Blanza	A+	1×	44/53	  GET
+ Shääd Kunkle	A+	1×	44/53	  GET
+ jrose	A+	1×	43/53	  GET
+ Kristina Brungard	A-	1×	39/53	  GET
+ jakemacneil	A+	1×	46/53	  GET
+ Alexander Elliott	A+	1×	36/53	  GET
+ Gabrielle G-W	A+	1×	32/53	  GET
+ Apocalypse	A+	1×	45/53	  GET
+ Israel A. Candelario	A	1×	39/53	  GET
+ Mtzdiana	A+	1×	39/53	  GET
+ Caleb Holmes	A+	1×	40/53	  GET
+ Nick Arbeiter	A-	1×	42/53	  GET
+ Mevalemadre95	C-	1×	33/53	  GET
+ Ramiz Yusifov	B	1×	35/53	  GET
+ Spinezx	A+	1×	40/53	  GET
+ Mroz4k	B	1×	43/53	  GET
+ Catherine	A+	1×	41/53	  GET
+ Matt Clark	A-	1×	43/53	  GET
+ Hawkwind79	B+	1×	24/53	  GET
+ Kyureon Westfall	A+	1×	46/53	  GET
+ Craftsman42	A+	1×	47/53	  GET
+ Kumi	A+	1×	45/53	  GET
+ Fejnav	A	1×	44/53	  GET
+ Thomas Rad	A+	1×	41/53	  GET
+ Andreea Danielescu	A+	1×	49/53	  GET
+ Prince Jacob	A	1×	15/53	  GET
+ Arkvenium	B+	1×	48/53	  GET
+ Jordan	A+	1×	40/53	  GET
+ Noah Ortiz	A+	1×	39/53	  GET
+ Keisiak	A+	1×	41/53	  GET
+ Bevanbiko	A+	1×	47/53	  GET
+ Tom Van Damme	A+	1×	41/53	  GET
+ Lucifiere	A	1×	33/53	  GET
+ Zachary Nicoll	A+	1×	37/53	  GET
+ Larisse	A+	1×	41/53	  GET
+ Ashley Herin	A+	1×	45/53	  GET
+ Fran Shay	B+	1×	17/53	  GET
+ Tarielen Veritas	A+	1×	47/53	  GET
+ Timelessking	A+	1×	38/53	  GET
+ Janetmartzero	A+	1×	31/53	  GET
+ Anthony Grenier	B-	1×	10/53	  GET
+ LOL2125hulk What?	A+	1×	39/53	  GET
+ Pangoling	A-	1×	37/53	  GET
+ Emory Cash	B	1×	32/53	  GET
+ Ashe	B-	1×	41/53	  GET
+ Roguedrummerboy	A-	1×	46/53	  GET
+ Takun Yokaishi	B+	1×	47/53	  GET
+ Newmanjr.mjn Super Monkey	C-	1×	18/53	  GET
+ Leandropeliciari99	A+	1×	45/53	  GET
+ Brandon Stewart	A+	1×	35/53	  GET
+ Jose.cardenas	A-	1×	44/53	  GET
+ Paco Paco	A+	1×	38/53	  GET
+ Drixx	B	1×	10/53	  GET
+ Clayton Ramone	A+	1×	44/53	  GET
+ zodalx	A+	1×	45/53	  GET
+ Jakeb114	A-	1×	42/53	  GET
+ Tibalt	A+	1×	39/53	  GET
+ Patrick Rosales	A+	1×	46/53	  GET
+ Brad8992	B+	1×	25/53	  GET
+ Jonathan Swenson	A+	1×	41/53	  GET
+ Vossk Hraesvelg	A+	1×	50/53	  GET
+ Melissa Lawver	A+	1×	50/53	  GET
+ John Boster	A+	1×	39/53	  GET
+ Heroicspiritemiya9029	C+	1×	43/53	  GET
+ Sara Lyn	B	1×	41/53	  GET
+ Doug March	A+	1×	45/53	  GET
+ Leeshie	A+	1×	42/53	  GET
+ Orange Baastard	B-	1×	27/53	  GET
+ Esmi	A+	1×	39/53	  GET
+ Good Man	A+	1×	42/53	  GET
+ Steve Nelson	A+	1×	37/53	  GET
+ Raimundo	A+	1×	39/53	  GET
+ Hsportugal	A+	1×	45/53	  GET
+ Ruen Labutan	C-	1×	6/53	  GET
+ Alexandru Ciuciulin	D+	1×	21/53	  GET
+ Dominic Flask	A+	1×	53/53	  GET
+ Ivan Leybag	D+	1×	15/53	  GET
+ Yicedawn	A+	1×	50/53	  GET
+ SnowBear	A+	1×	46/53	  GET
+ Speedy	A+	1×	42/53	  GET
+ Taylor Reeder	A+	1×	48/53	  GET
+ Jens Hviid	A+	1×	35/53	  GET
+ Evilpellu	A+	1×	46/53	  GET
+ Adam McFall	B	1×	40/53	  GET
+ Jenn	A+	1×	42/53	  GET
+ Jennifer Dean	A+	1×	45/53	  GET
+ Brian Scarcello	A+	1×	43/53	  GET
+ Syn Night	A+	1×	42/53	  GET
+ Andrei Cristian Petrilă	A+	1×	53/53	  GET
+ sergio	A+	1×	45/53	  GET
+ Canadianluigi	A+	1×	21/53	  GET
+ Helen Velich	A+	1×	44/53	  GET
+ Neonmobster_19530	C	1×	13/53	  GET
+ Thunder Soul	A+	1×	42/53	  GET
+ Mila Theodin	A+	1×	45/53	  GET
+ Neonmobster_14218	A+	1×	32/53	  GET
+ Keira Robertson	C-	1×	10/53	  GET
+ Normanus The Undying	A+	1×	43/53	  GET
+ Abdul Marq	A+	1×	46/53	  GET
+ Emmanuel	A+	1×	47/53	  GET
+ Goodbead40	A+	1×	40/53	  GET
+ Raevyn	B-	1×	38/53	  GET
+ Filip Vasovic	B	1×	33/53	  GET
+ kostasthedragon	A+	1×	44/53	  GET
+ Neonmobster_17039	A-	1×	18/53	  GET
+ Collins Estock	A+	1×	47/53	  GET
+ Cameron	A+	1×	34/53	  GET
+ Erik Valencia	A+	1×	36/53	  GET
+ Devin	A+	1×	46/53	  GET
+ Bram Verhagen	A+	1×	38/53	  GET
+ Zsuzsa Bányai	A+	1×	42/53	  GET
+ Neonmobster_19910	B+	1×	20/53	  GET
+ Allahusnackbar	A+	1×	40/53	  GET
+ Kaosknight	A+	1×	42/53	  GET
+ Joanne Marris	A	1×	53/53	  GET
+ Neonmobster_19200	A+	1×	40/53	  GET
+ Adrian F	A+	1×	37/53	  GET
+ Chris Iljas	A+	1×	41/53	  GET
+ Naud van Dalen	A+	1×	43/53	  GET
+ Andrew Leesman	A+	1×	41/53	  GET
+ Victoria	A+	1×	43/53	  GET
+ Rbcca123	A	1×	43/53	  GET
+ Claude Goeminne	A+	1×	31/53	  GET
+ Nevriks	C	1×	13/53	  GET
+ Scoots	D	1×	41/53	  GET
+ Monique.ignacio551	B+	1×	41/53	  GET
+ Joe Ruske	A+	1×	41/53	  GET
+ Brianna Flores	B	1×	37/53	  GET
+ Ivano Latuconsina	A+	1×	34/53	  GET
+ Luke Brunswick	A+	1×	30/53	  GET
+ Ryan Sz	A+	1×	45/53	  GET
+ Pepsi Fur	A+	1×	37/53	  GET
+ Jack_storm_448	A+	1×	31/53	  GET
+ Neonmobster_19882	B	1×	7/53	  GET
+ Kendar05	A+	1×	45/53	  GET
+ Jhedy	A+	1×	47/53	  GET
+ Davidhj.net	A+	1×	42/53	  GET
+ Corramel	A+	1×	20/53	  GET
+ Insanekitty32	A+	1×	39/53	  GET
+ Battlekingomegaman	A+	1×	41/53	  GET
+ Gavin Ferguson	A+	1×	53/53	  GET
+ Brittany Evanovich	A+	1×	43/53	  GET
+ Linkle	A+	1×	43/53	  GET
+ Nicholaspence	B+	1×	10/53	  GET
+ Shere Khan	A+	1×	53/53	  GET
+ Robert Gronewold	A+	1×	45/53	  GET
+ [TGL] Dogg	A+	1×	44/53	  GET
+ Macklmore	A+	1×	42/53	  GET
+ Isaac Friedman	C-	1×	21/53	  GET
+ Mrminimii	B+	1×	39/53	  GET
+ Neonmobster_19678	A+	1×	16/53	  GET
+ Marshmallowgod	C	1×	38/53	  GET
+ Galacticmarshin	C	1×	7/53	  GET
+ Kaitlyn Jewel	B+	1×	33/53	  GET
+ Luciano Santos	A+	1×	42/53	  GET
+ Kreyah	A	1×	44/53	  GET
+ MaKayla Hegger	A+	1×	14/53	  GET
+ Kaizla Wheaton	A+	1×	53/53	  GET
+ RuyGDA	A+	1×	46/53	  GET
+ Kathy Moon	A+	1×	39/53	  GET
+ Jbot5k	A+	1×	43/53	  GET
+ Carlos Solano Rodríguez	C+	1×	30/53	  GET
+ Peter Coste	A+	1×	39/53	  GET
+ Carolyn Klassen	A	1×	39/53	  GET
+ Caspar Parker	A+	1×	38/53	  GET
+ Andy Sun	F	1×	33/53	  GET
+ Ray Cintron	B+	1×	33/53	  GET
+ Maysterchief	B-	1×	31/53	  GET
+ Byron Lim	A+	1×	41/53	  GET
+ Steve Bono	A+	1×	41/53	  GET
+ Zeon	B	1×	6/53	  GET
+ Jennifer Ritz	A+	1×	44/53	  GET
+ Kristen Bacoccini	B	1×	18/53	  GET
+ Frawst	A+	1×	49/53	  GET
+ Sirlattius	A+	1×	48/53	  GET
+ Tanna	A+	1×	41/53	  GET
+ Chreagrain	D	1×	10/53	  GET
+ Mats Leckie	A+	1×	34/53	  GET
+ Caroline Williams	C+	1×	37/53	  GET
+ Neonmobster_17735	A+	1×	41/53	  GET
+ Cameron Cooke	C	1×	6/53	  GET
+ Gabriel John Tallungan	D	1×	35/53	  GET
+ Imlostcanuhelpme	A	1×	44/53	  GET
+ Atatdriver	A+	1×	44/53	  GET
+ Rom Andutan	D+	1×	38/53	  GET
+ Ghostshock	D	1×	16/53	  GET
+ Lauren Voorhees	A+	1×	45/53	  GET
+ Elrilgar	C-	1×	9/53	  GET
+ Kendy	A+	1×	42/53	  GET
+ Yomanasu	B	1×	32/53	  GET
+ AJ Esquin	D-	1×	38/53	  GET
+ Tzupy	A-	1×	36/53	  GET
+ L8ncoln	A+	1×	39/53	  GET
+ Schrodingers Box	A+	1×	44/53	  GET
+ Kyle Benedict Hizon	A+	1×	42/53	  GET
+ Oracle Saturn	A	1×	43/53	  GET
+ Romaindraws	A+	1×	43/53	  GET
+ Acegkl	B+	1×	37/53	  GET
+ Adell Coulliette	C	1×	10/53	  GET
+ Edwin Cortes	A+	1×	44/53	  GET
+ Scott Dyer	A+	1×	38/53	  GET
+ Jenelle Carter	A+	1×	41/53	  GET
+ Johnthesilver	A+	1×	53/53	  GET
+ Mychal Keeley	A	1×	35/53	  GET
+ Walter Kovacs	A	1×	43/53	  GET
+ Terence Petit	B	1×	43/53	  GET
+ W I L S O N	A+	1×	44/53	  GET
+ Coocoo617	A+	1×	44/53	  GET
+ Caitlin Weeks	A+	1×	36/53	  GET
+ Edilson Alves	A+	1×	41/53	  GET
+ David Selinger	A+	1×	38/53	  GET
+ Madison Ingerson	B-	1×	19/53	  GET
+ Jason	A	1×	16/53	  GET
+ Shadowslayer900	A+	1×	35/53	  GET
+ Dustin De Leon	C	1×	25/53	  GET
+ Christian Mille Malinao	A+	1×	38/53	  GET
+ FauxPaw	B	1×	21/53	  GET
+ Chris Williams	A+	1×	46/53	  GET
+ Dhodg187	A	1×	40/53	  GET
+ Nicholas Teo	C	1×	7/53	  GET
+ Megan	A+	1×	27/53	  GET
+ Gage Brier	D+	1×	24/53	  GET
+ Austin_Loughrey	C	1×	6/53	  GET
+ Hayley	A+	1×	44/53	  GET
+ Xavion	A+	1×	43/53	  GET
+ Tom Oude Egberink	A+	1×	46/53	  GET
+ Angel Cruz	B	1×	7/53	  GET
+ Chris Harrison	A+	1×	41/53	  GET
+ Ethan Gomez-Roxas	A+	1×	44/53	  GET
+ Kherwin Cheng Chua	A+	1×	47/53	  GET
+ Ivett Jimenez	A+	1×	46/53	  GET
+ Javi Marquez Reche	B	1×	18/53	  GET
+ Brodie Bond	A+	1×	42/53	  GET
+ Ms. Marie Mac	A+	1×	41/53	  GET
+ Darin Grechus	A	1×	47/53	  GET
+ Diane	A+	1×	52/53	  GET
+ Jason Smith	A+	1×	39/53	  GET
+ DoctorFluffy	A+	1×	44/53	  GET
+ Mikael Vaede	A-	1×	44/53	  GET

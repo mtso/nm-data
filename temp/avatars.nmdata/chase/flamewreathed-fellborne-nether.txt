@@ -1,33 +1,45 @@
-Accessed on Thu Sep 15 2016 00:45:17 GMT-0700 (PDT)
+Accessed on Sun Oct 09 2016 11:40:45 GMT-0700 (PDT)
  
 ×
 
-23 Owners Of Flamewreathed Fellborne [Nether]
+35 Owners Of Flamewreathed Fellborne [Nether]
 All collectors with one or more of these.
 COLLECTOR	TRADER
 GRADE	# OWNED	
 "AVATARS"
 COMPLETION
- Brokenname	A+	1×	43/53	  GET
- Kevin Jonek	B	1×	29/53	  GET
- Vaschmir	A+	1×	43/53	  GET
- Kyle Morse	A+	1×	45/53	  GET
- Sorrowmicasa	B+	1×	38/53	  GET
- Jessica McCollin	A+	1×	44/53	  GET
- Rbcca123	A+	1×	39/53	  GET
- Jezel Eguia	A-	1×	29/53	  GET
- Sugartime101	A+	1×	40/53	  GET
- Nicolas Rewardi	A-	1×	37/53	  GET
- Tomas Gumuliauskas	A+	1×	44/53	  GET
- Crimson	A+	1×	30/53	  GET
- Roberto Torres	A+	1×	38/53	  GET
- Enfuegopies Cyugy	A+	1×	39/53	  GET
- Dylan	B	1×	21/53	  GET
- Jeroen Gadellaa	A+	1×	45/53	  GET
- Jose.cardenas	A-	1×	44/53	  GET
- Isismavis	C	1×	5/53	  GET
- Cheyenne Clark	A	1×	39/53	  GET
- Datimie	A+	1×	5/53	  GET
- Iflipthecookie	C+	1×	36/53	  GET
- Naranda	A+	1×	43/53	  GET
+ Kyle Morse	A+	1×	46/53	  GET
+ Courtney	A+	1×	53/53	  GET
+ Jeroen Gadellaa	A+	1×	49/53	  GET
+ Sorrowmicasa	A+	1×	46/53	  GET
+ Rbcca123	A	1×	43/53	  GET
+ Crimson	A+	1×	32/53	  GET
+ Cheyenne Clark	A+	1×	40/53	  GET
+ Virgilio Seu	A+	1×	34/53	  GET
  Ria Drakenheart	B	1×	17/53	  GET
+ Tomas Gumuliauskas	A	1×	47/53	  GET
+ Iflipthecookie	B-	1×	43/53	  GET
+ Michael Plourde	A+	1×	52/53	  GET
+ Dylan	B	1×	27/53	  GET
+ Dominic Flask	A+	1×	53/53	  GET
+ Jezel Eguia	B	1×	29/53	  GET
+ Kellie Speckman	B+	1×	37/53	  GET
+ Datimie	A	1×	30/53	  GET
+ Jose.cardenas	A-	1×	44/53	  GET
+ Joe Braz	A+	1×	41/53	  GET
+ Reaver	A+	1×	50/53	  GET
+ Roberto Torres	A+	1×	44/53	  GET
+ Kevin Jonek	B	1×	29/53	  GET
+ Jessica McCollin	A+	1×	45/53	  GET
+ Vaschmir	A+	1×	50/53	  GET
+ Isismavis	C-	1×	5/53	  GET
+ Mani	A+	1×	39/53	  GET
+ Nicolas Rewardi	A	1×	37/53	  GET
+ Naranda	B+	1×	48/53	  GET
+ Enfuegopies Cyugy	A+	1×	39/53	  GET
+ Matt	A+	1×	49/53	  GET
+ Frawst	A+	1×	49/53	  GET
+ Brokenname	A+	1×	45/53	  GET
+ Sugartime101	A+	1×	42/53	  GET
+ Tyler Anderson	A+	1×	48/53	  GET
+ DoctorFluffy	A+	1×	44/53	  GET

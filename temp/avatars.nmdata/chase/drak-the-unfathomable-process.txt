@@ -1,24 +1,36 @@
-Accessed on Thu Sep 15 2016 00:44:05 GMT-0700 (PDT)
+Accessed on Sun Oct 09 2016 11:39:32 GMT-0700 (PDT)
  
 ×
 
-14 Owners Of Drak, the Unfathomable [Process]
+26 Owners Of Drak, the Unfathomable [Process]
 All collectors with one or more of these.
 COLLECTOR	TRADER
 GRADE	# OWNED	
 "AVATARS"
 COMPLETION
- Felipe Cthulipe	D+	1×	10/53	  GET
+ Charles Hurtt	A	1×	38/53	  GET
+ David Jimenez	A+	1×	48/53	  GET
+ Eliana	A+	1×	36/53	  GET
+ Neonmobster_16177	A+	1×	38/53	  GET
+ Joao Rio	A+	1×	36/53	  GET
+ Ramiz Yusifov	B	1×	35/53	  GET
+ Ariana Hydorn	A+	1×	42/53	  GET
+ Max Dusman	A+	1×	44/53	  GET
  Carlos O	A+	1×	32/53	  GET
- Alberto Bernard	A+	1×	44/53	  GET
- Joao Rio	A+	1×	32/53	  GET
- Neonmobster_16177	A+	1×	37/53	  GET
- Redondo1324	A-	1×	31/53	  GET
- Ariana Hydorn	A+	1×	37/53	  GET
- Fabian_norton	A+	1×	36/53	  GET
- Farscape1x	A+	1×	45/53	  GET
+ HarbingerOne	A+	1×	43/53	  GET
+ Claudia Tinúviel	A+	1×	47/53	  GET
+ Vanillabliss	A+	1×	52/53	  GET
+ Farscape1x	A+	1×	47/53	  GET
+ Christian Contr	A+	1×	45/53	  GET
+ Redondo1324	B+	1×	33/53	  GET
+ Riley Cowlin	A	1×	27/53	  GET
  Sailboat	C	1×	26/53	  GET
+ Arbiter	C	1×	37/53	  GET
+ Alberto Bernard	A+	1×	50/53	  GET
+ Neonmobster_2439	B-	1×	27/53	  GET
+ Fabian_norton	A+	1×	38/53	  GET
+ Joseph Cheng	A+	1×	42/53	  GET
+ Josiah Fortney	B	1×	42/53	  GET
  Kelvin Tse	A+	1×	40/53	  GET
- HarbingerOne	A+	1×	39/53	  GET
- Ramiz Yusifov	B-	1×	21/53	  GET
- Christian Contr	A+	1×	43/53	  GET
+ DucAnh Le	A+	1×	40/53	  GET
+ Felipe Cthulipe	D	1×	10/53	  GET

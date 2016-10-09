@@ -1,29 +1,42 @@
-Accessed on Thu Sep 15 2016 00:53:13 GMT-0700 (PDT)
+Accessed on Sun Oct 09 2016 11:48:51 GMT-0700 (PDT)
  
 ×
 
-19 Owners Of Nevermourne, Nightmare Spawn [Process]
+32 Owners Of Nevermourne, Nightmare Spawn [Process]
 All collectors with one or more of these.
 COLLECTOR	TRADER
 GRADE	# OWNED	
 "AVATARS"
 COMPLETION
- J B	A+	1×	53/53	  GET
- Joey Valko	A+	1×	48/53	  GET
- Sequoia B.M.	A+	1×	34/53	  GET
- Lawlessfighter	D-	1×	35/53	  GET
- Leon Persi	A	1×	23/53	  GET
  Elyzalex	A+	1×	45/53	  GET
- Courtney	A+	1×	53/53	  GET
- Lapianoman	A+	1×	51/53	  GET
- Bre	A+	1×	39/53	  GET
- Kevin Behrendt	A+	1×	38/53	  GET
- Josiah Fortney	B	1×	32/53	  GET
- Eric Walker	A+	1×	39/53	  GET
- Antialex	A+	1×	39/53	  GET
- Trisha Tan	A+	1×	46/53	  GET
- Neonmobster_19030	A+	1×	16/53	  GET
+ Lawlessfighter	D-	1×	35/53	  GET
+ Eric Walker	A	1×	39/53	  GET
  Emerson Jeffery	D-	1×	5/53	  GET
- Nathsic	B-	1×	41/53	  GET
- Kristian Zranchev	B	1×	29/53	  GET
- Lgregor	A+	1×	40/53	  GET
+ Lgregor	A+	1×	45/53	  GET
+ Kristian Zranchev	A+	1×	43/53	  GET
+ Kevin Behrendt	A	1×	41/53	  GET
+ Tony Bolony	A+	1×	53/53	  GET
+ Purerock100	B	1×	4/53	  GET
+ Prince Jacob	A	1×	15/53	  GET
+ Oracle Saturn	A	1×	43/53	  GET
+ Ezylryb	A	1×	41/53	  GET
+ Antialex	A+	1×	44/53	  GET
+ Sequoia B.M.	A+	1×	42/53	  GET
+ Leon Persi	C	1×	23/53	  GET
+ Dominic Flask	A+	1×	53/53	  GET
+ Alexis Greenleaf	A+	1×	39/53	  GET
+ Courtney	A+	1×	53/53	  GET
+ Sebastian Aranguren	B-	1×	14/53	  GET
+ J B	A+	1×	53/53	  GET
+ Kelsey Vines	A+	1×	25/53	  GET
+ Brawndo	A+	1×	47/53	  GET
+ Nathsic	C+	1×	42/53	  GET
+ Lapianoman	A+	1×	52/53	  GET
+ Josiah Fortney	B	1×	42/53	  GET
+ 13udha	A+	1×	40/53	  GET
+ Ritz Altairis	A+	1×	37/53	  GET
+ Rachel Imperial II	C	1×	7/53	  GET
+ Neonmobster_19030	B+	1×	17/53	  GET
+ Trisha Tan	A-	1×	46/53	  GET
+ Bre	A+	1×	41/53	  GET
+ Joey Valko	A+	1×	52/53	  GET

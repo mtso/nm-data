@@ -1,24 +1,29 @@
-Accessed on Thu Sep 15 2016 00:42:31 GMT-0700 (PDT)
+Accessed on Sun Oct 09 2016 11:37:55 GMT-0700 (PDT)
  
 ×
 
-14 Owners Of Collector of Souls [Process]
+19 Owners Of Collector of Souls [Process]
 All collectors with one or more of these.
 COLLECTOR	TRADER
 GRADE	# OWNED	
 "AVATARS"
 COMPLETION
- M.	A+	1×	27/53	  GET
- slyff	A+	1×	37/53	  GET
- Igor Henckes	A	1×	40/53	  GET
- Jay McAlpine	B+	1×	18/53	  GET
- Spaghetti Spaghetti	A+	1×	46/53	  GET
+ Brianna Schlager	A+	1×	36/53	  GET
+ Anayame	A+	1×	43/53	  GET
+ Narby	A+	1×	53/53	  GET
+ Jay McAlpine	A+	1×	32/53	  GET
+ Randy	A	1×	34/53	  GET
+ Spaghetti Spaghetti	A+	1×	50/53	  GET
+ Michael Wallace	A+	1×	50/53	  GET
+ Coocoo617	A+	1×	44/53	  GET
+ Igor Henckes	A+	1×	46/53	  GET
+ Scott Dyer	A+	1×	38/53	  GET
+ slyff	A+	1×	44/53	  GET
  J B	A+	1×	53/53	  GET
- Gabalter	A+	1×	34/53	  GET
- Michael Wallace	A+	1×	46/53	  GET
- Scott Dyer	A+	1×	35/53	  GET
- Anayame	A+	1×	41/53	  GET
- Monomi	A-	1×	24/53	  GET
- Narby	A+	1×	51/53	  GET
- Coocoo617	A+	1×	40/53	  GET
- Brianna Schlager	A+	1×	35/53	  GET
+ M.	A+	1×	29/53	  GET
+ Monomi	A	1×	35/53	  GET
+ Ryan Reed	B	1×	33/53	  GET
+ Larisse	A+	1×	41/53	  GET
+ Rajmund Nagy	A+	1×	37/53	  GET
+ MauMau Mau	A+	1×	34/53	  GET
+ Angel Cruz	B	1×	29/53	  GET

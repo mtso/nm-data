@@ -1,24 +1,38 @@
-Accessed on Thu Sep 15 2016 00:51:14 GMT-0700 (PDT)
+Accessed on Sun Oct 09 2016 11:46:49 GMT-0700 (PDT)
  
 ×
 
-14 Owners Of Luxina, Life's Light [Process]
+28 Owners Of Luxina, Life's Light [Process]
 All collectors with one or more of these.
 COLLECTOR	TRADER
 GRADE	# OWNED	
 "AVATARS"
 COMPLETION
- Caleb Chou	A+	1×	40/53	  GET
- Nickson.vuong891	A+	1×	40/53	  GET
- Chained Nightmare	A+	1×	52/53	  GET
+ Nickson.vuong891	A+	1×	42/53	  GET
+ J.M. A.N.	A+	1×	42/53	  GET
  Dimonite	A+	1×	43/53	  GET
- Schrodingers Box	A+	1×	42/53	  GET
- Macklmore	A+	1×	41/53	  GET
- Bruno Sales	A-	1×	6/53	  GET
- H2OMelon	A+	1×	42/53	  GET
- Oracle Saturn	A+	1×	39/53	  GET
- Shuunka	A+	1×	48/53	  GET
+ Macklmore	A+	1×	42/53	  GET
+ Oracle Saturn	A	1×	43/53	  GET
+ Jason Castick	A+	1×	31/53	  GET
+ Lawrence0721	A+	1×	40/53	  GET
+ Lapianoman	A+	1×	52/53	  GET
+ Emory	A+	1×	51/53	  GET
+ Caleb Chou	B	1×	44/53	  GET
+ Taimaniac	A-	1×	47/53	  GET
+ Onubeatricesimona	A+	1×	38/53	  GET
+ Shuunka	A+	1×	50/53	  GET
+ Ryan Warbington	C+	1×	27/53	  GET
+ H2OMelon	A+	1×	44/53	  GET
+ Sara Pope-Ramsey	A+	1×	42/53	  GET
+ Krystofer Reich	A+	1×	38/53	  GET
+ Mikuruchu	A+	1×	42/53	  GET
  Jevwin Laforteza	C	1×	5/53	  GET
- Miklo	A+	1×	41/53	  GET
- Lawrence0721	A+	1×	38/53	  GET
- Adrian Ionita	A+	1×	40/53	  GET
+ Miklo	A+	1×	46/53	  GET
+ Minona	A+	1×	41/53	  GET
+ Jazzy	A+	1×	36/53	  GET
+ Adrian Ionita	A+	1×	42/53	  GET
+ Schrodingers Box	A+	1×	44/53	  GET
+ Bruno Sales	A-	1×	6/53	  GET
+ Neonmobster_19800	A+	1×	33/53	  GET
+ Moop	A+	1×	49/53	  GET
+ Steve Gomez	A+	1×	49/53	  GET

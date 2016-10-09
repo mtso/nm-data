@@ -1,20 +1,24 @@
-Accessed on Thu Sep 15 2016 00:56:45 GMT-0700 (PDT)
+Accessed on Sun Oct 09 2016 11:52:29 GMT-0700 (PDT)
  
 ×
 
-10 Owners Of Soulfire Titan [Blaze]
+14 Owners Of Soulfire Titan [Blaze]
 All collectors with one or more of these.
 COLLECTOR	TRADER
 GRADE	# OWNED	
 "AVATARS"
 COMPLETION
- Sephiro Patrick Ma	A+	1×	39/53	  GET
+ Jenna	A+	1×	40/53	  GET
+ dog_scientist444	A+	1×	42/53	  GET
+ Alfred Rivera	A+	1×	49/53	  GET
+ Brian Baron	A+	1×	45/53	  GET
  Atatdriver	A+	1×	44/53	  GET
- Dane Atticus Parker	B+	1×	33/53	  GET
- Julie	A+	1×	46/53	  GET
  Albert Poer	A+	1×	38/53	  GET
- Ryan	A+	1×	40/53	  GET
- Mrshuff	A+	1×	39/53	  GET
- Alfred Rivera	A+	1×	44/53	  GET
- Johannah Navallo	A+	1×	40/53	  GET
- James Glover	B+	1×	38/53	  GET
+ Fabled3000	A+	1×	42/53	  GET
+ Ryan	A+	1×	45/53	  GET
+ Ezylryb	A	1×	41/53	  GET
+ Julie	A+	1×	49/53	  GET
+ James Glover	B+	1×	39/53	  GET
+ Johannah Navallo	A+	1×	41/53	  GET
+ Red Dragonfly	A+	1×	44/53	  GET
+ Dane Atticus Parker	D	1×	35/53	  GET

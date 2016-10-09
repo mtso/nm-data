@@ -1,25 +1,31 @@
-Accessed on Thu Sep 15 2016 00:52:49 GMT-0700 (PDT)
+Accessed on Sun Oct 09 2016 11:48:27 GMT-0700 (PDT)
  
 ×
 
-15 Owners Of Nature's Reclaimer [Soul]
+21 Owners Of Nature's Reclaimer [Soul]
 All collectors with one or more of these.
 COLLECTOR	TRADER
 GRADE	# OWNED	
 "AVATARS"
 COMPLETION
- Neonmobster_19591	B-	1×	5/53	  GET
- Benedick Bana	A+	1×	34/53	  GET
- Sirlattius	A+	1×	44/53	  GET
- William La Grue	A+	1×	36/53	  GET
- Neonmobster_18845	A	1×	31/53	  GET
- Chymeron	A+	1×	43/53	  GET
- Randallpinkflyd	A+	1×	44/53	  GET
- Scylla	B-	1×	40/53	  GET
- NordicTurtle	A+	1×	47/53	  GET
- Musleblast The Ultimate Gamer	A	1×	34/53	  GET
- Sami Khodir	A+	1×	45/53	  GET
- Reia Metherle	A+	1×	41/53	  GET
+ Randallpinkflyd	A+	2×	49/53	  GET
+ Tanksoul	B	1×	49/53	  GET
+ Sirlattius	A+	1×	48/53	  GET
+ Neonmobster_19591	C	1×	5/53	  GET
+ Sami Khodir	C+	1×	45/53	  GET
+ NordicTurtle	A+	1×	50/53	  GET
+ melanie whittall	A+	1×	41/53	  GET
+ Dario	B	1×	31/53	  GET
+ William La Grue	A+	1×	42/53	  GET
+ Neonmobster_18845	B	1×	31/53	  GET
+ Chymeron	A+	1×	44/53	  GET
+ Scylla	B	1×	43/53	  GET
+ Acegkl	B+	1×	37/53	  GET
+ Musleblast The Ultimate Gamer	A+	1×	34/53	  GET
+ Benedick Bana	A	1×	36/53	  GET
  J B	A+	1×	53/53	  GET
- Marcio Marques Soares	A+	1×	44/53	  GET
- Tanksoul	D+	1×	40/53	  GET
+ Kilian	A+	1×	53/53	  GET
+ Reia Metherle	B+	1×	41/53	  GET
+ Marcio Marques Soares	A+	1×	47/53	  GET
+ husahusa	A+	1×	42/53	  GET
+ Emory	A+	1×	51/53	  GET

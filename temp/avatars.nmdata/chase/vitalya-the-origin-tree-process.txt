@@ -1,30 +1,41 @@
-Accessed on Thu Sep 15 2016 01:02:19 GMT-0700 (PDT)
+Accessed on Sun Oct 09 2016 11:58:10 GMT-0700 (PDT)
  
 ×
 
-20 Owners Of Vitalya, the Origin Tree [Process]
+31 Owners Of Vitalya, the Origin Tree [Process]
 All collectors with one or more of these.
 COLLECTOR	TRADER
 GRADE	# OWNED	
 "AVATARS"
 COMPLETION
- Ashley Logan	A+	1×	45/53	  GET
- Adrienne Dawley	A	1×	27/53	  GET
- Michael Wallace	A+	1×	46/53	  GET
- Delesa Lc	A+	1×	32/53	  GET
- Jeremiah	A+	1×	41/53	  GET
+ Patrick Hirsch	A+	1×	45/53	  GET
+ Eldagast	A+	1×	46/53	  GET
  Neonmobster_16884	A+	1×	41/53	  GET
+ Krystal Timeless	C-	1×	36/53	  GET
+ Joe Ruske	A+	1×	41/53	  GET
+ Silvia Lopez	B-	1×	15/53	  GET
+ Jeremiah	A	1×	41/53	  GET
+ Michael Tsiang	A+	1×	41/53	  GET
+ Acid	A+	1×	40/53	  GET
+ Rachel	A+	1×	45/53	  GET
+ Matthias Bramfitt	A+	1×	41/53	  GET
+ Claudia Tinúviel	A+	1×	47/53	  GET
+ Mistogen	D-	1×	33/53	  GET
+ Gabriel John Tallungan	D	1×	35/53	  GET
+ Erman Erol	B	1×	29/53	  GET
+ Zac Kenny	A+	1×	40/53	  GET
+ Metaspy	B	1×	4/53	  GET
+ Devonstoys	D+	1×	21/53	  GET
+ Toritundra	A+	1×	49/53	  GET
+ Mrshuff	A+	1×	47/53	  GET
+ Zalthaksus Dracorex	C+	1×	32/53	  GET
+ Storyteller	B	1×	38/53	  GET
+ Ashley Logan	A+	1×	47/53	  GET
+ Sirlattius	A+	1×	48/53	  GET
+ Delesa Lc	A+	1×	34/53	  GET
+ Adrienne Dawley	A+	1×	34/53	  GET
+ Roches Guimarães	A+	1×	53/53	  GET
  Ron Martin	A+	1×	42/53	  GET
  Diane	A+	1×	52/53	  GET
- Gabriel John Tallungan	D	1×	30/53	  GET
- Krystal Timeless	F	1×	20/53	  GET
- Cece Donuts	A+	1×	43/53	  GET
- Roches Guimarães	A+	1×	53/53	  GET
- Devonstoys	D-	1×	21/53	  GET
- Mistogen	D-	1×	32/53	  GET
- Zalthaksus Dracorex	B	1×	32/53	  GET
- Silvia Lopez	B	1×	15/53	  GET
- Rachel	A+	1×	45/53	  GET
- Claudia Tinúviel	A+	1×	43/53	  GET
- Toritundra	A+	1×	46/53	  GET
- Sirlattius	A+	1×	44/53	  GET
+ Cece Donuts	A+	1×	44/53	  GET
+ Beto	A+	1×	42/53	  GET

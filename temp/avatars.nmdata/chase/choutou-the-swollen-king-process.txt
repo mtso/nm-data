@@ -1,21 +1,25 @@
-Accessed on Thu Sep 15 2016 00:41:44 GMT-0700 (PDT)
+Accessed on Sun Oct 09 2016 11:37:06 GMT-0700 (PDT)
  
 ×
 
-11 Owners Of Choutou, the Swollen King [Process]
+15 Owners Of Choutou, the Swollen King [Process]
 All collectors with one or more of these.
 COLLECTOR	TRADER
 GRADE	# OWNED	
 "AVATARS"
 COMPLETION
- Reaver	A+	1×	46/53	  GET
- Megan wants the old NeonMob back	A+	1×	46/53	  GET
- Neonmobster_4493	A+	1×	42/53	  GET
- Betan	A+	1×	12/53	  GET
- Paulor	A	1×	36/53	  GET
- Firstiand Chaniago	A+	1×	35/53	  GET
- Intotheforests	A+	1×	25/53	  GET
+ Zeila	A+	1×	45/53	  GET
+ Reaver	A+	1×	50/53	  GET
+ Neonmobster_4493	A+	1×	44/53	  GET
  Lorena	C+	1×	1/53	  GET
- Clay Johnson	A+	1×	37/53	  GET
+ Power7000	F+	1×	7/53	  GET
+ Megan wants the old NeonMob back	A+	1×	46/53	  GET
  Diane	A+	1×	52/53	  GET
- Max Wind	B+	1×	25/53	  GET
+ Max Wind	B	1×	25/53	  GET
+ Paulor	A-	1×	36/53	  GET
+ Firstiand Chaniago	A+	1×	41/53	  GET
+ Clay Johnson	A+	1×	37/53	  GET
+ Gabriel Ashley	A+	1×	35/53	  GET
+ Betan	B+	1×	12/53	  GET
+ Rosemary Foley	A-	1×	30/53	  GET
+ Intotheforests	A+	1×	28/53	  GET

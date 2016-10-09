@@ -1,26 +1,28 @@
-Accessed on Thu Sep 15 2016 00:39:46 GMT-0700 (PDT)
+Accessed on Sun Oct 09 2016 11:35:06 GMT-0700 (PDT)
  
 ×
 
-16 Owners Of Avatar of Sargas Reach [Ethereal]
+18 Owners Of Avatar of Sargas Reach [Ethereal]
 All collectors with one or more of these.
 COLLECTOR	TRADER
 GRADE	# OWNED	
 "AVATARS"
 COMPLETION
- Konrad Koessel	A+	1×	32/53	  GET
- Andreea Danielescu	A+	1×	43/53	  GET
- Leonardo Martìnez	A+	1×	22/53	  GET
- William Brown	A+	1×	47/53	  GET
- David Jimenez	A+	1×	39/53	  GET
- Letícia Duarte	A	1×	23/53	  GET
- Hayabusa123	A	1×	43/53	  GET
- Ezylryb	A+	1×	46/53	  GET
- NordicTurtle	A+	1×	47/53	  GET
- Youssef Hachhouch	A+	1×	36/53	  GET
+ tteokbokki	A+	1×	47/53	  GET
+ Chmeee	A	1×	46/53	  GET
+ NordicTurtle	A+	1×	50/53	  GET
+ David Jimenez	A+	1×	48/53	  GET
+ Narby	A+	1×	53/53	  GET
+ Shuunka	A+	1×	50/53	  GET
+ Hayabusa123	A+	1×	49/53	  GET
+ Vaschmir	A+	1×	50/53	  GET
  Kyla	A+	1×	34/53	  GET
- ziel klynx	A+	1×	40/53	  GET
- Marc Antoine	A+	1×	47/53	  GET
+ Letícia Duarte	A-	1×	32/53	  GET
  Fabled3000	A+	1×	42/53	  GET
- Chmeee	A+	1×	44/53	  GET
- Shuunka	A+	1×	48/53	  GET
+ Youssef Hachhouch	A+	1×	43/53	  GET
+ Leonardo Martìnez	A+	1×	27/53	  GET
+ Konrad Koessel	A+	1×	39/53	  GET
+ William Brown	A+	1×	47/53	  GET
+ Andreea Danielescu	A+	1×	49/53	  GET
+ ziel klynx	A	1×	41/53	  GET
+ Excidis	B	1×	32/53	  GET
